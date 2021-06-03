@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Kings Maiestie at White-Hall, the VII. of February, 1636. By Thomas Lawrence D. of Divinity, and chaplaine to his maiestie in ordinarie. Published by the Kings speciall command</title>
+            <title>Sermon preached before the Kings Majesty at White-Hall, the seventh of February, 1636</title>
+            <author>Laurence, Thomas, 1598-1657.</author>
+         </titleStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A05192</idno><idno type="EEBO-CITATION">99838138</idno>
+  <idno type="VID">2500</idno>
+  <idno type="EEBO-PROQUEST">2240905831</idno>
+  <idno type="STC">STC 15327</idno>
+  <idno type="STC">ESTC S102353</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838138e"/>
+            <note>(EEBO-TCP ; phase 2, no. A05192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2500)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 805:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Kings Maiestie at White-Hall, the VII. of February, 1636. By Thomas Lawrence D. of Divinity, and chaplaine to his maiestie in ordinarie. Published by the Kings speciall command</title>
+                  <title>Sermon preached before the Kings Majesty at White-Hall, the seventh of February, 1636</title>
+                  <author>Laurence, Thomas, 1598-1657.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Badger, and are to be sold in S. Dunstans Church-yard in Fleet-street, at the little-shop turning up to Cliffards-Inne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXXXVII [1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2500:1"/>
+            <pb facs="tcp:2500:1"/>
+            <p>A SERMON PREACHED BE<g ref="char:EOLhyphen"/>FORE THE KINGS MAIESTIE <hi>at White-Hall,</hi> the VII. of <hi>February,</hi> 1636.</p>
+            <p>By <hi>Thomas Lawrence</hi> D. of <hi>Divinity,</hi> and <hi>Chaplaine</hi> to His MAIESTIE in <hi>Ordinarie.</hi>
+            </p>
+            <p>Published by the KINGS speciall Command.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 84.</hi>
+               </bibl>
+               <p>O how amiable are thy Tabernacles, O Lord of Hosts!</p>
+               <bibl>
+                  <hi>ESAY 8.13, 14.</hi>
+               </bibl>
+               <p>Sanctifie the Lord of Hosts himselfe, and let him be your feare, and let him be your dread; and he shall be for a Sanctuarie.</p>
+            </q>
+            <p>The second Edition.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Badger,</hi> and are to be sold in S. <hi>Dunstans</hi> Church<g ref="char:EOLhyphen"/>yard in Fleet-street, at the little-shop turning up to <hi>Cliffards-Inne.</hi> MDCXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:2500:2"/>
+            <pb n="1" facs="tcp:2500:2"/>
+            <head>A SERMON PREACHED BE<g ref="char:EOLhyphen"/>FORE THE KINGS MAIESTIE at <hi>White-Hall, Feb.</hi> 7. MDCXXXVI.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EXODVS III. V.</hi>
+                  </bibl>
+                  <p>And he said, Draw not nigh hither, put off thy shooes from off thy feet, for the place where<g ref="char:EOLhyphen"/>on thou standest is holy ground.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y Text is <hi>Mandatum reverendi locum, quia sanctus est, <hi>saith</hi> Cajetan<note n="a" place="margin">Cajet. in loc. Di<g ref="char:EOLhyphen"/>onysius Carthus. Cornel<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>à <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ap. Ru<g ref="char:EOLhyphen"/>pert. Hug. Vict. Tostat.</note>: A man<g ref="char:EOLhyphen"/>date enjoyning a reverentiall distance unto the place,</hi> where <hi>typically</hi> God <hi>the Sonne</hi> was <hi>represented,</hi> where <hi>literally</hi> God <hi>Himselfe</hi> was <hi>present; either</hi> in his owne Per<g ref="char:EOLhyphen"/>son, <hi>or</hi> by the mediation of an Angell: <hi>Holinesse becommeth thy house for ever,</hi> saith <hi>David</hi>
+               <note n="b" place="margin">Psal. 93.5.</note>: so
+<pb n="2" facs="tcp:2500:3"/> doth <hi>reverence, and lowlinesse</hi> too, <hi>keep thy foot there<g ref="char:EOLhyphen"/>fore, when thou goest to the house of God,</hi> saith <hi>Salo<g ref="char:EOLhyphen"/>mon</hi>
+               <note n="c" place="margin">Ec<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les. 5.<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>: for <hi>surely the Lord is in this place, though I knew it not,</hi> saith <hi>Iacob</hi>
+               <note n="d" place="margin">Gen. 28.16.</note>. <hi>God</hi> came indeed to him in a <hi>dreame</hi> but if we <hi>dreame</hi> while we are here, he will not come so to us. <hi>O let us come,</hi> saith the <hi>Prophet</hi>
+               <note n="e" place="margin">Psal 9<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note>, but <hi>let us fall downe too:</hi> he commands our <hi>faith,</hi> but loaths our <hi>incivility,</hi> and loves neither a <hi>distrustfull</hi> servant, nor a <hi>sawcy</hi> one. He is here indeed, and be not too ventrous, lest thou feel him: <hi>Draw not nigh hither, put off thy shooes, &amp;c.</hi>
+            </p>
+            <p>Where you may observe,</p>
+            <p>First, a distinction in consecrated places: some consecrated to <hi>such a height,</hi> some not consecrated <hi>so high;</hi> the <hi>presence of the Lord</hi> in all, but not <hi>the same degrees of his presence</hi> in all: for, although one be ho<g ref="char:EOLhyphen"/>ly and the other, one is not <hi>so</hi> holy as the other. <hi>Put off thy shooes</hi> where thou art (<hi>this</hi> being an outward Ceremony of ordinary use in their devotions, through those Eastern parts, whereby they testified the inward humiliation of the mind: commanded <hi>Ioshuah</hi>
+               <note n="f" place="margin">Iosh. 5.15.</note> in expresse terms elswhere, and <hi>Moses</hi> here; and by the rules of equipollency, according to that exposition of the <hi>Rabbins</hi>
+               <note n="g" place="margin">Pet. Cun. de rep. Heb. l. 2. c. 12. Ainsw. in loc.</note>
+               <hi>in the next book,</hi> others be<g ref="char:EOLhyphen"/>sides: in continuall observation among the Priests<note n="h" place="margin">Exod. 30.19. Com. à Lap. in loc.</note> of the <hi>Iewes,</hi> and from thence, perchance (as <hi>Proco<g ref="char:EOLhyphen"/>pius</hi>
+               <note n="i" place="margin">
+                  <hi>So the</hi> Saracens. Tostat. in loc. <hi>Hence prov<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rbially used,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>So others with</hi> Procop. <hi>in Exod.</hi> 3. Graeci <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ficuli discal<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ati ad sacra com<g ref="char:EOLhyphen"/>meabant.</note> and others tell us they used it) derived to the <hi>Gentiles:</hi> for why should any slave be more vile in the sight of his lord, than we in the presence of our God?) 'tis holy <hi>there:</hi> but come not hither though thy shooes be off, 'tis holier <hi>here:</hi> the greatest re<g ref="char:EOLhyphen"/>spects thou canst give, are little enough for the place where thou art; and too little for the place where I
+<pb n="3" facs="tcp:2500:3"/> the am: thou maist not tread on that ground with thy <hi>shooes on,</hi> nor on this though thy <hi>shooes be of.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>econdly,</hi> The reason of this distinction: <hi>no inhe<g ref="char:EOLhyphen"/>rem essentiall preeminence,</hi> flowing from the nature and position of the place; but a <hi>relative</hi>
+               <note n="k" place="margin">Per solutionem cal<g ref="char:EOLhyphen"/>ceamenti demonstrat sancti praesentiā. Pro<g ref="char:EOLhyphen"/>cop. in Exod. 3. Solve calceamen<g ref="char:EOLhyphen"/>ta propter loci san<g ref="char:EOLhyphen"/>ctitatem &amp; Dei, sed unde terra illa sancta? quia de<g ref="char:EOLhyphen"/>putata ad apparitio<g ref="char:EOLhyphen"/>nem illam, &amp; my<g ref="char:EOLhyphen"/>sterium, &amp; collo<g ref="char:EOLhyphen"/>cutionem sanctam, &amp; dationem legis. <hi>Dionys. Carthus. in loc.</hi> Hierusalē dicta sancta, quòd in ea Templum, <hi>&amp;c. Brent in loc.</hi> Vt reverentiam exhi<g ref="char:EOLhyphen"/>beret divinae Ma<g ref="char:EOLhyphen"/>jestati quae in loco hoc praesentiā ex<g ref="char:EOLhyphen"/>hibebat, ut{que} mag<g ref="char:EOLhyphen"/>na animi veneratio<g ref="char:EOLhyphen"/>ne ad percipiendū Dei accederet ora<g ref="char:EOLhyphen"/>culū <hi>Cornel.</hi> à Lap. in loc. <hi>Sanctified by the presence, and apparition of God.</hi> Ainsw. <hi>in loc. The meaning of that ce<g ref="char:EOLhyphen"/>remony, Exod</hi> 3.5. <hi>Ios.</hi> 5.15. <hi>was to shew reverence to the place where God did manifest his presence.</hi> Mason <hi>of Fast. c.</hi> 3.</note>
+               <hi>accidentall preminence,</hi> arising from a peculiar dispensation of his esidence, and graces in the place. GOD was by his power and presence where <hi>Moses</hi> was, and he spake to him there; delivering his Commission in <hi>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Chapter,</hi> arming him with miracles to speed it in <hi>the next:</hi> and this was enough to <hi>supererogate</hi> a greater reverence to this place than another, be<g ref="char:EOLhyphen"/>cause GOD was more present in this place than in another: thy shooes might become that, thy bare feet best suit with this; and yet draw not too nigh the bush for all that; for even this deportment is not low enough to come thither, because that inf<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nitude is more presentiall there. The <hi>Son of</hi> God was here <hi>in an allegory:</hi> for <hi>ignis in rubo Deus in car<g ref="char:EOLhyphen"/>ne,</hi> say some of the Fathers: <hi>the fire in the bush is God in the flesh:</hi> and <hi>ignis in rubo Deus in Virgine, the fire in the bush is God in the Virgine</hi>
+               <note n="m" place="margin">Bern. Serm. de beat. <hi>Mar.</hi> in illud Apocal. <hi>12. Signum magnum apparuit.</hi> Theodoret. Nyssen. Orat. <hi>De Christi Nativitate.</hi>
+               </note>, say others. And <hi>the Son of God</hi> was here <hi>without an allegory, either in his owne person</hi> according to many of the ancient: <hi>I am come downe to deliver them,</hi> saith this apparition at the <hi>eighth Verse:</hi> and none of the Persons came downe for our spirituall deliverance, whereof this temporall redemption of <hi>Israel</hi> out of <hi>Egypt</hi> was a Type, but he: <hi>or by the deputation of an Angell,</hi>
+               <note n="l" place="margin">
+                  <hi>Greg moral.</hi> l. 28. c. 2. &amp;c.</note> as the most. For although <hi>Cornelius à Lap.</hi> will have us <note n="n" place="margin">Quia communis est Theologorum cum <hi>S. Dionysio c.</hi> 4. Coel. hierar: sententia, omnes Dei apparitiones in <hi>V. T.</hi> factas esse per Angelos. <hi>Cornel. à Lap. in loc.</hi>
+               </note>
+               <pb n="4" facs="tcp:2500:4"/> grant him, out of <hi>Dionysius the Areopagite,</hi> the all apparitions of GOD in the <hi>Old Testament</hi> wer by <hi>Angels;</hi> yet is he as willing to grant us out of others, that all those <hi>Angels</hi>
+               <note n="o" place="margin">Multi Patres in omnibus appariti<g ref="char:EOLhyphen"/>onibus <hi>V. T.</hi> re<g ref="char:EOLhyphen"/>praesentatum fuisse filium. <hi>Ibid. Iust. Cont. Tryyh. Tert. li.</hi> 2. <hi>Cont. Mar. Hilar. lib.</hi> 4. de Trin. <hi>Ambros.</hi> de fid. <hi>Chrys.</hi> in Act 7.</note> were Proxies, and Depties for CHRIST. Which may bee the reason per<g ref="char:EOLhyphen"/>chance, why the same vision, that is stiled an<note n="p" place="margin">Corn à Lap. <hi>ibid.</hi>
+               </note>
+               <hi>An<g ref="char:EOLhyphen"/>gell in one verse of this Chapter, in all the rest;</hi> the LORD; to shew, that, if this were not that <hi>Angell of the covenant in the Prophet,</hi> yet was it at least <hi>au<g ref="char:EOLhyphen"/>ctoritate Deus,</hi> though <hi>obsequio Angelus,</hi> as the <hi>Iesu<g ref="char:EOLhyphen"/>ite</hi>
+               <note n="q" place="margin">Exod. 3.2. <hi>An Angell and the Lord,</hi> &amp;c. v. 1.4, 6, 7, 11, 13, 14, 18. <hi>An Angell,</hi> Act. 7.30, 53.</note> speakes; in the person of an <hi>Angell,</hi> the repre<g ref="char:EOLhyphen"/>sentation of GOD. <hi>Approximation and neernesse</hi> was permitted there, <hi>remotenesse and distances</hi> re<g ref="char:EOLhyphen"/>quired here. He might use adoration <hi>in that place,</hi> he must only use it <hi>towards this,</hi> because God was there more than ordinary, hee will have more re<g ref="char:EOLhyphen"/>spects than ordinary: thy shooes are too uncleane for that place, thy bare feet not cleane enough for this.</p>
+            <p>
+               <hi>Thirdly,</hi> the illation upon this reason: A <hi>propor<g ref="char:EOLhyphen"/>tionable adoration</hi> to those <hi>different degrees of conse<g ref="char:EOLhyphen"/>cration:</hi> either in respect of the body, from the <hi>lite<g ref="char:EOLhyphen"/>rall</hi> sense: adoration <hi>in conjunction, with that place, in it; put off thy shooes there:</hi> Adoration <hi>in opposition to the other place, towards it; come not nigh here. Or,</hi> in respect of the soule, from the <hi>tropologicall</hi>
+               <note n="r" place="margin">
+                  <hi>Dead Skins the materials of those, to shew i<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o Aegypt he was to go, though he were sent thither to die.</hi> Ambros. <hi>in Luc.</hi> Brent. <hi>in Loc. The signe of giving up an interest ei<g ref="char:EOLhyphen"/>ther of possessions by an ordinary transaction: O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the mariage bed by divorce,</hi> Ruth. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7. Deut 25.9. Ve<g ref="char:EOLhyphen"/>terum est consue<g ref="char:EOLhyphen"/>tudo, ut si sponsum sponsa repudiare vellet, discalcearetur ille, &amp; hoc esset signum repudii. Proinde Moses excalcea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i jubetur, ne ad ecclesiam, quae in rubo significabatur, &amp; quasi sponsus calceatus accederet-hoc Christo servabatur qui verus sponsus, cujus non sum dig<g ref="char:EOLhyphen"/>nus solvere corrigiam calcei. <hi>Rab. Maur. in Loc.</hi> Exuere calceos, id est, <hi>Sordes. Calvin. Gallas, &amp;c. The guise of a Penitent,</hi> 2 Sam. 15.30. Ezek. 24.17. Esay 20.2, 4.</note>: put off thy shooes then out of a due respect unto me in the place where thou art: and, at this remove, in a more humble adoration, prostrate thy selfe to<g ref="char:EOLhyphen"/>wards
+<pb n="5" facs="tcp:2500:4"/> the place where I am; and joyne thy heart with thy knee too; be that which thou doest, the messenger of what thou meanest; nor let thy body adore me, but in the company of thy minde, joyne soule and body in this Humiliation: 'tis holy <hi>where thou hearest me speake:</hi> but 'tis holyer <hi>from whence I speake; that</hi> is too cleane for thy <hi>Shooes,</hi> and <hi>this</hi> for thy <hi>feet.</hi>
+            </p>
+            <p>These are the measures of your patience, and this time: for the better spending whereof, that <hi>ho<g ref="char:EOLhyphen"/>ly God,</hi> to whom all consecrated places are hallow<g ref="char:EOLhyphen"/>ed, instruct me rightly to put the difference betwixt holy and prophane, the neglect whereof made <hi>God</hi> so angry <hi>in Ezekiel</hi>
+               <note n="s" place="margin">Ezek. 22.26.</note>, and you rightly to observe it: which leades mee to the distinction of consecrated places, and my first generall.</p>
+            <p n="1">1 'Tis observable, that in those solemne appariti<g ref="char:EOLhyphen"/>ons of <hi>God:</hi> to <hi>Abraham,</hi> upon Mount <hi>Moriah,</hi> where the <hi>Passion of Christ</hi> was represented in a Type: and to <hi>Moses</hi> upon Mount <hi>Sina,</hi> where the <hi>Conception</hi>
+               <note n="t" place="margin">
+                  <hi>According to that Hymne in the Church:</hi> Rubum quem viderat <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> incombustum, conservatam agno<g ref="char:EOLhyphen"/>vimus virginita<g ref="char:EOLhyphen"/>tem, Sancta Dei genetrix. <hi>Similiter</hi> Procop. <hi>in Exod.</hi>
+               </note>
+               <hi>of Christ</hi> was represented in a Type: and to <hi>David</hi> in the Threshing floore of <hi>Araunah,</hi> where the <hi>intercession of Christ</hi> was represented in a Type: some of them being in that place, where the Temple was to be built, as<note n="u" place="margin">Ioseph. Ant. l. 1, c. 14. l. 7. c. 14.</note> that to <hi>Abraham</hi> and <hi>David</hi> upon <hi>Moriah:</hi> other, where the Tabernacle was commanded to be built, as that to <hi>Moses</hi> on <hi>Sina;</hi> there was a distinction of persons enjoyned, in respect of places; which, in some proportion, answered to the distinction of persons and places, in the Tabernacle and the Temple, <hi>I and the Lad will goe yonder,</hi> saith <hi>Abraham:</hi> I the Sacrificer, and the Lad the Sacrifice; the Court of the Priests:
+<pb n="6" facs="tcp:2500:5"/>
+               <hi>but abide you here,</hi> 'tis not for you to goe so farre; the Court of the people, <hi>Gen.</hi> 22.5. <hi>Moses</hi> was a Type of our <hi>Redemption by Christ,</hi> delivering <hi>Israel</hi> out of <hi>Egypt:</hi> and <hi>Iosuah</hi> was a Type of our <hi>sal<g ref="char:EOLhyphen"/>vation by Christ,</hi> bringing <hi>Israel</hi> into <hi>Canaan</hi> (for <hi>the sonne of man</hi> was to effect both by the power of <hi>the Sonne of God</hi>) and yet put off thy shooes saith <hi>God</hi> to either; because neither<note n="x" place="margin">
+                  <hi>Moses</hi> being not the first-borne, nor extraordinarily called then: <hi>Iosu<g ref="char:EOLhyphen"/>ah,</hi> though the first-borne, yet suspended altogether then, by the separation of <hi>Levi.</hi>
+               </note> had power to execute the Priest-hood <hi>then:</hi> the place where ye stand is Holy, <hi>Moses before his consecration</hi> may be there: the place where I am is holyer, <hi>Moses after his consecration,</hi> is scarce holy enough to be <hi>here;</hi> and as <hi>Moses</hi> un<g ref="char:EOLhyphen"/>derstood his distance, so did <hi>Iosuah</hi> too, for he did so: <hi>in the fifth of that story, at the fifteenth verse: God</hi> afterwards designes <hi>Moses</hi> to the employment <note n="a" place="margin">Moses and Aa<g ref="char:EOLhyphen"/>ron among his Priests, Psal. 99. Exod. 40. <hi>where be is commanded to do the acts of conse<g ref="char:EOLhyphen"/>cration.</hi>
+               </note> of a Priest, that was before a ruler of the people; and to shew the neerenesse of his person, gives him a neerenesse of place: there is one stand for the <hi>Layty,</hi> another for the <hi>Clergy,</hi> and yet both with<g ref="char:EOLhyphen"/>out the Mount, <hi>in the</hi> 19. of <hi>Exodus.</hi>
+               <note n="b" place="margin">Verse 21, 22, 24.</note>
+               <hi>Aaron</hi> with <hi>Nadab, Abihu,</hi> and the <hi>seventy Elders</hi> (all of them being Priests by <hi>inheritance,</hi> or <hi>destination</hi>) may as<g ref="char:EOLhyphen"/>cend <hi>up the Mount,</hi> but not <hi>up so high upon the Mount,</hi> for <hi>Moses alone shall come neere the Lord:</hi> (into the Sanctuary they may come, they may not come into the Oracle,) in that very Chapter, after which a Mandate is given by GOD for the ordering of the Tabernacle, <hi>the foure and twentieth of this story, at the first and second verse. Lastly, David</hi> erects an Al<g ref="char:EOLhyphen"/>tar upon <hi>Moriah,</hi> being then the possession of <hi>Araunah,</hi> as formerly <hi>Abraham</hi> had done: consecra<g ref="char:EOLhyphen"/>ted it was by the <hi>sacrifices</hi> of both, and the <hi>appari<g ref="char:EOLhyphen"/>tions of God</hi> to both, and in both represented the
+<pb n="7" facs="tcp:2500:5"/>
+               <hi>satisfaction</hi> and <hi>mediation of Christ;</hi> where he that provided for the building of the Temple, observes the same distance, which was observed in the <hi>Taber<g ref="char:EOLhyphen"/>nacle</hi> and the <hi>Temple,</hi> the Altar built <hi>neare</hi> the place where the Angell stood, but not <hi>in it,</hi> 2 <hi>Sam.</hi> 24, 16, 18.</p>
+            <p>Nor was the direction <hi>particular</hi> in this behalfe, but universall and generall: a distinction of holi<g ref="char:EOLhyphen"/>nesse in their <hi>persons</hi>
+               <note n="c" place="margin">Exod. 29. Leviticus 8. Numb. 8.</note>: a distinction of holinesse in their <hi>garments</hi>
+               <note n="d" place="margin">Exod. 28. &amp; 29.</note>: a distinction of holinesse in their <hi>sacrifices</hi>
+               <note n="e" place="margin">Lev. c. 1. c. 2. c. 3.</note>: a distinction of holinesse in the <hi>orna<g ref="char:EOLhyphen"/>ments</hi>
+               <note n="f" place="margin">Exod. c. 26. c. 27. c. 35. c. 36. c. 37. c. 38.</note>: a distinction of holinesse in the <hi>furniture of the Temple:</hi> some <hi>holy; most holy</hi> others<note n="g" place="margin">Exod. 30.10, 29.</note>. <hi>Ger<g ref="char:EOLhyphen"/>shoms</hi> charge holier than <hi>Meraries,</hi> and <hi>Coaths</hi> than <hi>Gershoms,</hi> and the charge of <hi>Aarons</hi> family than <hi>eithers</hi>
+               <note n="h" place="margin">Numb. 3,</note>. The whole <hi>Camp</hi> is holy, and<note n="i" place="margin">Numb. 5.</note> therefore no unclean person must be in <hi>this:</hi> the <hi>Tabernacle</hi> holier than the <hi>Camp,</hi> and therefore the <hi>Levites</hi>
+               <note n="k" place="margin">Num. 1.50.51. c. 4.</note> alone must pitch round about <hi>that:</hi> the <hi>Sanctuary</hi> holier than the <hi>Tabernacle,</hi> and therfore the <hi>Priests</hi>
+               <note n="l" place="margin">Levit. 21.6.</note> onely must enter <hi>there;</hi> and into the <hi>Tabernacle</hi> without washing<note n="m" place="margin">Exod. 30.20, 21</note>, but not into <hi>this:</hi> the <hi>Oracle</hi> holier than all, and therefore none must approach here, but <hi>Aaron</hi> himselfe, that is holiest<note n="n" place="margin">Numb. 17.8. Exod. 39.30. Num. 35.28.</note> of all, and that but <hi>once a yeare</hi> neither, and that not without lotions<note n="o" place="margin">Heb. 9.3, 7.</note>, and propitiatory vestments, and mysti<g ref="char:EOLhyphen"/>call sprinklings, bloud in one hand to appease <hi>God,</hi> and a censer presenting a cloud of incense, as it were, to hide him from <hi>God</hi> in the other.</p>
+            <p>Nor did this distinction expire with the <hi>Taber<g ref="char:EOLhyphen"/>nacle,</hi> but lived also in the <hi>Temple;</hi> for as <hi>Moses</hi>
+               <note n="p" place="margin">Heb. 8.5.</note> went by a patterne before, so did <hi>Salomon</hi>
+               <note n="q" place="margin">1 Paralip. 28.6.12, 19.</note> and <hi>Ezra</hi>
+               <note n="r" place="margin">Ezra 2.63. Nehem. 7.64, 65. c. 8.3.</note> after: which the <hi>Iewes</hi> were so carefull of,
+<pb n="8" facs="tcp:2500:6"/> that when <hi>Pompey</hi> to his own ruine, as it appeared by the sequele, invaded the Sanctuary, the natives<note n="s" place="margin">Ioseph. Antiq. l. 14. c. 8.</note> more deplored the discovery, than the spoile there<g ref="char:EOLhyphen"/>of: <hi>Nicanor in the Macchabees</hi>
+               <note n="t" place="margin">1 Mac 7.42.</note> being punished by the <hi>God</hi> of <hi>Israel,</hi> S. <hi>Steven</hi>
+               <note n="u" place="margin">Acts 6.13.</note>, and S. <hi>Paul</hi>
+               <note n="x" place="margin">Acts 24.12. c. 21, 28, 29.</note> in the <hi>Acts,</hi> accused by the people of <hi>Israel,</hi> (and their ac<g ref="char:EOLhyphen"/>cusation had been <hi>just,</hi> had it been <hi>true</hi>
+               <note n="a" place="margin">Acts 24.13 c. 21 29.</note>) for not observing the distinction of those courts: and, in that warre against <hi>Antigonus, Herod</hi> protested, he had rather hazard his <hi>kingdome</hi>
+               <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Io<g ref="char:EOLhyphen"/>seph. Antiq. l. 14. c. 28.</note>, than <hi>this;</hi> while the Temple was building at his owne expence, ne<g ref="char:EOLhyphen"/>ver comming within those forbidden lists, but en<g ref="char:EOLhyphen"/>trusting the charge with the <hi>Priests;</hi> and inscribing the sentence of death over the gates against those aliens, that should break in within the ranges, as <hi>Io<g ref="char:EOLhyphen"/>sephus</hi>
+               <note n="c" place="margin">
+                  <hi>Antiq. l. 15. c. 14.</hi> Women in the se<g ref="char:EOLhyphen"/>cond court not per<g ref="char:EOLhyphen"/>mitted the same place with men. <hi>1b.</hi>
+               </note> relates, not observing thus <hi>an humble distance</hi> to the place.</p>
+            <p>And must <hi>God</hi> lose part of his honour from us, <hi>by sending his Sonne to us?</hi> or must there be lesse holinesse in the <hi>Church,</hi> where he was <hi>in truth and substance sacrificed by himselfe,</hi> than where he was sacrificed <hi>in a type or shadow, by Aaron in the Tem<g ref="char:EOLhyphen"/>ple?</hi> Certainly no. Our <hi>Saviour</hi> tels us in the Gospell, the <hi>Temple</hi> is holier<note n="d" place="margin">Mat. 23.17, 19.</note> than the <hi>gold,</hi> and the <hi>Altar</hi> than the <hi>gift;</hi> and, by expulsing those exchangers and hu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sters, though <hi>for the service</hi>
+               <note n="e" place="margin">
+                  <hi>So</hi> Comment. in loc. Gualther Mar. 11.15. Marlor. Mat. 21.12, 13.</note>
+               <hi>thereof,</hi> beyond the <hi>very utmost borders</hi>
+               <note n="f" place="margin">The same call it there <hi>atrium,</hi> that is, <hi>atrium populi,</hi> or <hi>Salomons</hi> porch, <hi>2 Paralip. 6.13. Acts 3.11.</hi> into this the people one<g ref="char:EOLhyphen"/>ly resorted, and far<g ref="char:EOLhyphen"/>ther than this wee read not that our <hi>Saviour</hi> came, be<g ref="char:EOLhyphen"/>ing not of <hi>Levi,</hi> but of <hi>Iuda,</hi> a Priest after the order of <hi>Melchisedech;</hi> not after the order of <hi>Aaron,</hi> for of <hi>Iuda Moses</hi> spake no<g ref="char:EOLhyphen"/>thing concerning the priesthood, <hi>Heb. 7.14. Spelm. de non tem. Eccles. &amp;c.</hi>
+               </note> of the San<g ref="char:EOLhyphen"/>ctuary; and at no other times, than <hi>after his</hi>
+               <note n="g" place="margin">Ioh. 2.14 Mat. 21.12. Marlorat. in loc.</note>
+               <hi>bap<g ref="char:EOLhyphen"/>tisme,</hi> and <hi>before his passion</hi>
+               <note n="h" place="margin">Ioh. 2.15. Spelm. de non tem. Eccles.</note>, at the <hi>entrance, and ac<g ref="char:EOLhyphen"/>complishment</hi> of our redemption; and, <hi>when</hi> those <note n="i" place="margin">Mat. 21.13. Luk. 19 46. Mar 11.17. Esa. 56.7. <hi>as the same and others collect thence.</hi>
+               </note>
+               <pb n="9" facs="tcp:2500:6"/>
+               <hi>legall sacrifices,</hi> their doves and oxen were <hi>before</hi> ejected; and from <hi>that place,</hi> where the <hi>Christian Church</hi> was best represented, their <hi>instructions and customary devotions</hi> being performed <hi>here,</hi> which were to last <hi>after Christ;</hi> their types, which were to expire <hi>with Christ, within;</hi> shewes, that this di<g ref="char:EOLhyphen"/>stinction should extend as farre as the benefit of his Passion or Baptisme did, and live as long as Orato<g ref="char:EOLhyphen"/>ry or Gospell. Wherefore as the Christians in af<g ref="char:EOLhyphen"/>ter-ages distinguished their Oratories into an<note n="k" place="margin">Vid. <hi>Godw:</hi> Ant. l. 1. c. 1, &amp;c.</note>
+               <hi>Atri<g ref="char:EOLhyphen"/>um,</hi> or Church-yard, a <hi>Sanctum,</hi> or Church, a <hi>San<g ref="char:EOLhyphen"/>ctum Sanctorum,</hi> or Chancell: so did they conceive a greater opinion of sanctity in one of them, than in the other; and in one place of them, than in an<g ref="char:EOLhyphen"/>other, having an <hi>altar here,</hi> answerable to an <hi>oracle, or ark, a mercy-seat there;</hi> and, that it might appeare this discrimination was not <hi>temporary,</hi> but <hi>continu<g ref="char:EOLhyphen"/>all,</hi> pointed their Churches <hi>Eastward,</hi> and looking towards the <hi>Temple. Church-yards</hi> they thought prophaned by<note n="l" place="margin">Aug. Serm. de temp. to. 10. 214. <hi>All immodest beha<g ref="char:EOLhyphen"/>viour prohibited here,</hi> Articl. 1634. n. 52. Statut. Syno<g ref="char:EOLhyphen"/>dal. com. n. 36. apud Carranz. p. 64<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>sports;</hi> but the <hi>Churches themselves</hi> even by their <hi>feasts of</hi>
+               <note n="m" place="margin">1 Cor. 11.12. Triclinium epula<g ref="char:EOLhyphen"/>rum, Hieron. in loc. Phot. Nomoc. Tit 5. c. 2. <hi>Out of a Councell of</hi> Gan<g ref="char:EOLhyphen"/>gra <hi>and</hi> Carthage. Artic. 1580. n. 61. Art. 1634. 63. Can. 1571. n. 20. 88.</note>
+               <hi>charity:</hi> the whole<note n="n" place="margin">Gothi Roma capta ad Ecclesiam confugientibus pe<g ref="char:EOLhyphen"/>per<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erunt. Cornel. à Lap. in Numb. 25.15. Phot. No<g ref="char:EOLhyphen"/>moc. Tit. 5. c. 2.25. Tit. 8. c. 22.26. Tit. 8. c. 13.27. Tit. 8. c. 19. rep. 28 Tit. 8. c. 7.32. Tit. 8. c. 12. rep. 1 Mac. 10.83. c. 5.43. 2 Mac. 4.33.</note> cir<g ref="char:EOLhyphen"/>cuit both <hi>before,</hi> and <hi>after Christ,</hi> was priviledged for <hi>refuge;</hi> but the inviolablest Sanctuary of all was that, which was <hi>nearest to the</hi>
+               <note n="o" place="margin">Exod. 21.14. 1 Reg. 2.28.</note>
+               <hi>holiest of all:</hi> none out of the communion of the Church per<g ref="char:EOLhyphen"/>mitted to lie <hi>there, without</hi>
+               <note n="p" place="margin">Nullus laicus in Ecclesia sepeliatur, nisi in communi coemiterio. Con<g ref="char:EOLhyphen"/>cil Tribur. c. 17.</note>: and few in the commu<g ref="char:EOLhyphen"/>nion of the Church admitted <hi>here, within</hi>
+               <note n="p" place="margin">Nullus laicus in Ecclesia sepeliatur, nisi in communi coemiterio. Con<g ref="char:EOLhyphen"/>cil Tribur. c. 17.</note>; any <hi>con<g ref="char:EOLhyphen"/>secrated</hi> ground preferred<note n="q" place="margin">
+                  <hi>Paulinus</hi> demands whether the holinesse of the place availes the dead, and S. <hi>Aug</hi> answers him <hi>de cur. pro Mort. ad Paulin. c. 4. Augustines</hi> body translated from without the doore into the North porch of <hi>S. Peter</hi> &amp; <hi>S. Paul,</hi> Bed. l. <hi>2.</hi> c. <hi>3.</hi> hist. <hi>Edelburg</hi> translated in like manner, l. <hi>3.</hi> c. <hi>8. B. Aydans</hi> bones translated to the Altar, <hi>c. 17.</hi> as also <hi>B. Cedda's. c. 23.</hi>
+               </note> for <hi>interment</hi> before that which was <hi>not consecrated;</hi> &amp; that in a higher esteem, which<note n="q" place="margin">
+                  <hi>Paulinus</hi> demands whether the holinesse of the place availes the dead, and S. <hi>Aug</hi> answers him <hi>de cur. pro Mort. ad Paulin. c. 4. Augustines</hi> body translated from without the doore into the North porch of <hi>S. Peter</hi> &amp; <hi>S. Paul,</hi> Bed. l. <hi>2.</hi> c. <hi>3.</hi> hist. <hi>Edelburg</hi> translated in like manner, l. <hi>3.</hi> c. <hi>8. B. Aydans</hi> bones translated to the Altar, <hi>c. 17.</hi> as also <hi>B. Cedda's. c. 23.</hi>
+               </note> was in a <hi>higher degree of consecration;</hi> and<note n="q" place="margin">
+                  <hi>Paulinus</hi> demands whether the holinesse of the place availes the dead, and S. <hi>Aug</hi> answers him <hi>de cur. pro Mort. ad Paulin. c. 4. Augustines</hi> body translated from without the doore into the North porch of <hi>S. Peter</hi> &amp; <hi>S. Paul,</hi> Bed. l. <hi>2.</hi> c. <hi>3.</hi> hist. <hi>Edelburg</hi> translated in like manner, l. <hi>3.</hi> c. <hi>8. B. Aydans</hi> bones translated to the Altar, <hi>c. 17.</hi> as also <hi>B. Cedda's. c. 23.</hi>
+               </note>
+               <pb n="10" facs="tcp:2500:7"/> that in the highest, which was <hi>nearest the Al<g ref="char:EOLhyphen"/>tar.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> had <hi>their</hi> stations<note n="r" place="margin">Cod. Can. Eccles, univers. Can. 11, 12, 14, 26, 41, 44, 45. Iustell. not. p. 159, 166. ex Greg. Thaumatourg. Ba. sil. Harmenopul. Schol. Graec. Har<g ref="char:EOLhyphen"/>menopuli. Tertul. Synes. Theoph. A<g ref="char:EOLhyphen"/>lex.</note>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, had <hi>theirs:</hi> their <hi>fideles</hi> venturing not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Theodoret</hi>
+               <note n="s" place="margin">Lib. 5. cap. 18.</note>; or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as some Councels in <hi>Binius</hi>
+               <note n="t" place="margin">To. 1. part. 1. p. 158, &amp;c.</note> speake; beyond those <hi>railes or cancelli</hi> (whence the name of <hi>Chauncell</hi> was derived) which distinguished the <hi>nave, or body</hi> of the Church from the <hi>Oracle, or Chauncell.</hi> None out of orders, no not <hi>at the Communion,</hi> came with<g ref="char:EOLhyphen"/>in these (whence arose that distinction in the anci<g ref="char:EOLhyphen"/>ent Church betwixt the <hi>communion of the Clergy,</hi>
+               <note n="u" place="margin">S. Ambrose <hi>told</hi> Theodosius <hi>being in the Church,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (intri cancellos, <hi>saith the interpre<g ref="char:EOLhyphen"/>ter</hi>) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theodo<g ref="char:EOLhyphen"/>ret. l 5. c. 18.</note>
+               <hi>and the Laity,</hi> being not different in <hi>substance,</hi> as an ignorant <hi>Romanist</hi> urges for the restraint of the Cup, but in <hi>place</hi>) nor all within orders, neither <hi>with<g ref="char:EOLhyphen"/>in those regions beyond these</hi> (for the very<note n="x" place="margin">Sand. relat. pag. 173.</note>
+               <hi>Grecians themselves</hi> haue their Tables inclosed with great mystery from the people, at this day,) the <hi>inferiour degrees</hi> communicating <hi>within the first,</hi> the <hi>higher alone within the second:</hi> in the <hi>Chancell</hi> the <hi>rest,</hi> the <hi>Priests</hi> only<note n="a" place="margin">Phot. Nomoc. tit. 3. c. 7. tit. 13. c. 27. Concil. Laod. c. 19 Tolet 4. c. 17</note> at the <hi>Altar.</hi> So that, although they carefully provided for a due respect to other parts of their Churches, forbidding either to build<note n="b" place="margin">Phot. Nomoc. tit 2. c 1, 2. tit. 3. c. 14.</note>
+               <hi>on</hi> or <hi>neare</hi> them, to passe or carry <hi>through</hi> them, as our<note n="c" place="margin">Mar. 11.16.</note>
+               <hi>Saviour</hi> also in the <hi>Gospell</hi> did; to prophane the for<g ref="char:EOLhyphen"/>mer soile <hi>of any Church</hi> by secular uses, after, in a more convenient si<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, they had built another, to open shops and stalls <hi>upon the doores and wals</hi> of <hi>God</hi> (for if he would not be troubled with the noise of hammers, <hi>while</hi> his Temple was <hi>building,</hi> he will not be troubled with the noyse of hammers about it, <hi>when</hi> it is <hi>built</hi>) yet was there a more aw<g ref="char:EOLhyphen"/>full reverence commanded to <hi>this part,</hi> being bar<g ref="char:EOLhyphen"/>red from the ordinary view, which made them so
+<pb n="11" facs="tcp:2500:7"/> passionately<note n="d" place="margin">Neque hic re<g ref="char:EOLhyphen"/>rum finis erat: nam &amp; Sanctuarium in<g ref="char:EOLhyphen"/>gressi sunt milites: quorum aliquos scimus nullis ini<g ref="char:EOLhyphen"/>tiatos mysteriis, &amp; viderunt omnia quae incus erant: quin &amp; sanctissi<g ref="char:EOLhyphen"/>mus Christi san<g ref="char:EOLhyphen"/>guis, sicut in tali tumultu contingit, in praedictorum militum vestes ef<g ref="char:EOLhyphen"/>fusus est. Chrys. Epist. 1. Innocent. Rom. Episcopo.</note> complaine, when the outrages of those Pagan times brake in upon them, with the<note n="e" place="margin">1 Sam. 6.19.</note>
+               <hi>Bethshemites,</hi> and discovered what they might not see: the same distinction being observed by the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> besides: for they had their<note n="f" place="margin">Iul. Poll. l. 1. c. 1. &amp;c.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as appeares by <hi>their own</hi> antiquities, and Historians: all the par<g ref="char:EOLhyphen"/>ticulars whereof might be justified by severall au<g ref="char:EOLhyphen"/>thorities, wer't not for the <hi>losing</hi> of my Sermon in my quotations.</p>
+            <p>
+               <hi>Cursed be the man,</hi> saith the Councell of<note n="g" place="margin">Cod. Can. Eccl. univers. p. 40. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Phot. Nomoc. tit. 5. c. 1. tit. 13. c. 33.</note>
+               <hi>Gangra, that teacheth the contempt of the house of God.</hi> The curse is 1300 yeares old <hi>at least:</hi> and yet, 'tis to be feared, lives still, to condemne <hi>a distemper of zeale</hi> in our later times. For how have the same which aim<g ref="char:EOLhyphen"/>ed at a <hi>parity in Church-men,</hi> sided also for a <hi>parity in the Church;</hi> and, from <hi>a parity in the Church,</hi> risen to <hi>a parity of all places with the Church;</hi> that the Temple of <hi>God</hi> is the <hi>world,</hi> and to <hi>build</hi> is to <hi>confine</hi> him, as <hi>Iohn Hus</hi>
+               <note n="h" place="margin">
+                  <hi>And anciently othe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s also.</hi> V. Ve<g ref="char:EOLhyphen"/>del exercit. in Ig<g ref="char:EOLhyphen"/>nat. Ep. ad Magnes. c. 4. <hi>Test. of the true Church. p.</hi> 130. <hi>&amp;c.</hi>
+               </note> did? ye take too much upon you, seeing all persons are holy with the <hi>rebels</hi>
+               <note n="i" place="margin">Numb. 16.3.</note>
+               <hi>here;</hi> and to what purpose is this wast, seeing all places are holy, with the <hi>traitour</hi>
+               <note n="k" place="margin">Mat. 26.8.</note>
+               <hi>there?</hi> ye are a <hi>royall Priesthood</hi> in Saint <hi>Peter</hi>
+               <note n="l" place="margin">1 Pet. 2.9.</note>, <hi>all Priests;</hi> and therefore a <hi>Priestly Kingdome</hi> in <hi>Moses</hi>
+               <note n="m" place="margin">Exo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 19.6.</note>, <hi>all Kings:</hi> no difference be<g ref="char:EOLhyphen"/>twixt him that <hi>sacrificeth,</hi> and him that <hi>sacrificeth not;</hi> the <hi>pulpit,</hi> and the <hi>tables end;</hi> the <hi>belfrey,</hi> and the <hi>altar.</hi> And to shew they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, those that <hi>make merchandise of the Word of God in Saint Paul</hi>
+               <note n="n" place="margin">2 Cor. 2.17.</note>, have <hi>retailed</hi> their Divinity in some parts, by the strike and the scales, the peck and the pound, preferring <hi>ware-houses</hi> before <hi>Churches. What? despise ye the house of God,</hi> saith the <hi>Doctor</hi>
+               <note n="o" place="margin">1 Cor. 11.22.</note>
+               <hi>of
+<pb n="12" facs="tcp:2500:8"/> the Gentiles?</hi> Some do, and some do not: but <hi>where<g ref="char:EOLhyphen"/>in have we despised it,</hi> say they? <hi>In that ye say, the ta<g ref="char:EOLhyphen"/>ble of the Lord is contemptible;</hi> saith the <hi>Prophet.</hi> Psalms of <hi>degrees</hi> we read of; because, 'tis said, they were sung <hi>upon those degrees or ascents</hi> unto the Tem<g ref="char:EOLhyphen"/>ple; and as there were degrees <hi>without the Temple,</hi> so are there degrees <hi>within the Temple</hi> too: different re<g ref="char:EOLhyphen"/>spects due to places, for different degrees in the pla<g ref="char:EOLhyphen"/>ces; the neglect therefore of respects to the Table, was a contempt of the Table, <hi>Mal.</hi> 1.7. But blessed be <hi>God,</hi> who, as formerly he bestowed <hi>Kings</hi>
+               <note n="p" place="margin">
+                  <hi>King</hi> Ethelbert <hi>built</hi> S. Pauls <hi>in</hi> London, <hi>&amp;</hi> S. An<g ref="char:EOLhyphen"/>drewes <hi>in</hi> Roche<g ref="char:EOLhyphen"/>ster. Bed. hist. l. 2. c. 3. &amp;c.</note> up<g ref="char:EOLhyphen"/>on this land to <hi>raise</hi> his Churches, so hath he raised us <hi>Kings,</hi> to <hi>preserve</hi> his Churches: els, that curse on <hi>Israel,</hi> in <hi>Hoseah</hi>
+               <note n="q" place="margin">Hos. 10.1. L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppi &amp; tribulus ascendisset super aras.</note>, had been <hi>ours</hi> perchance ere this: <hi>The thorne and the thistle had come upon our Al<g ref="char:EOLhyphen"/>tars;</hi> we might have met in <hi>caves and chambers</hi> stil, as the <hi>Primitive Christians</hi> somtimes did; for though we would allow the <hi>Lord heaven for his throne,</hi> we would scarce allow him <hi>earth enough for his foot<g ref="char:EOLhyphen"/>stoole:</hi> and the Magistrate might have cause to en<g ref="char:EOLhyphen"/>joyne the carriage of <hi>padles</hi>
+               <note n="r" place="margin">Deut. 23.14.</note> againe, even when we walk within the <hi>courts of God. Damascen</hi>
+               <note n="s" place="margin">De imag Orat. 3.</note> tels us of a judgement upon the violaters of one Oratory by <hi>death:</hi> and <hi>Bede</hi>
+               <note n="t" place="margin">Hist. l. 4. c. 25.</note> tels us of a judgement upon the violaters of another Oratory by <hi>fire.</hi> He is the <hi>Lords annointed,</hi> saith <hi>David,</hi> and therefore <hi>God</hi> forbid we should touch the <hi>King:</hi> and this is <hi>the Lords annoin<g ref="char:EOLhyphen"/>ted</hi>
+               <note n="*" place="margin">
+                  <hi>V<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tion used in Consecration.</hi> Gen. 35.14 c. 28.18. Exod. 40.9. Mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. Fel. Octav. &amp;c.</note> too; and therfore God forbid we should wrong the Church: for as a disresp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to the <hi>Cha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re of State</hi> reflects upon the <hi>King,</hi> because he is <hi>represented</hi> there: so doth a disrespect to the <hi>Church</hi> reflect upon <hi>God,</hi> because he <hi>is</hi> there: <hi>the same God</hi> through every part therof, but not <hi>in the same manner</hi> through eve<g ref="char:EOLhyphen"/>ry
+<pb n="13" facs="tcp:2500:8"/> part thereof. For as there are different degrees of <hi>sanctity</hi> in them, so is there a different dispensation of his <hi>presence</hi> in them too: which leads me to the rea<g ref="char:EOLhyphen"/>son of this distinction, and my second generall.</p>
+            <p n="2">2. In every consecration there is <hi>livery and seisin,</hi> giving and taking possession; giving possession by <hi>man,</hi> and taking by <hi>God,</hi> and although man take not possession alwayes <hi>immediately by himselfe,</hi> but <hi>me<g ref="char:EOLhyphen"/>diately,</hi> sometimes by a <hi>proxe:</hi> or, though, <hi>immedi<g ref="char:EOLhyphen"/>ately by himselfe,</hi> he is not <hi>personally</hi> alwayes present, but for the most part onely <hi>relatively</hi> there: <hi>God al<g ref="char:EOLhyphen"/>wayes</hi> takes possession <hi>immediately by himselfe,</hi> and is alwayes in <hi>an especiall manner, personally</hi> present, where hee takes possession too: the difference be<g ref="char:EOLhyphen"/>twixt <hi>ordinary</hi> and <hi>extraordinary</hi> consecration; con<g ref="char:EOLhyphen"/>secration <hi>by donation from man;</hi> and consecration <hi>by assumption or reservation from God;</hi> lying princi<g ref="char:EOLhyphen"/>pally in <hi>this:</hi> that his presence <hi>followes that;</hi> but his presence <hi>makes this:</hi> there 'tis a <hi>consequent,</hi> and here an <hi>antecedent</hi> to consecration. For example: <hi>God</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppeares to <hi>Iacob</hi> at <hi>Luz,</hi> in the <hi>eight and twen<g ref="char:EOLhyphen"/>tieth of Genesis:</hi> 'twas there he saw the Angels as<g ref="char:EOLhyphen"/>cending and descending, that thorow-fare be<g ref="char:EOLhyphen"/>tw<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt earth and heaven, <hi>Verse</hi> 12. and thereupon, <hi>surely the Lord is in this place,</hi> saith he, <hi>Verse</hi> 16. What ther<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? <hi>how dreadfull is</hi> it therefore, seeing the <hi>house of God</hi> maste<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inely be, where <hi>God</hi> cer<g ref="char:EOLhyphen"/>tainly <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and <hi>the Gate of H<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ven,</hi> from whence our prayers <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ryed by the Angels into Heaven? <hi>Verse</hi> 17 <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will hee ever est<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em it lesse, and the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pillar where he intends an <hi>Altar, Verse <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> property</hi> of the place is alter'd, so is <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>L<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>z<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</hi> 'tis <hi>Bethel now,
+<pb n="14" facs="tcp:2500:9"/> Verse</hi> 19. and in this <hi>house of God</hi> shall his vowes and devotions be performed <hi>unto God,</hi> the presence of <hi>God in that place</hi> inferred a consecration <hi>of the place,</hi> at the <hi>last verse of that Chapter.</hi> Nor was this the illation of <hi>Iacob</hi> onely here, but elsewhere of <hi>God</hi> himselfe: the <hi>Lord</hi> appeared by an Angell unto <hi>David,</hi> and the <hi>Lord</hi> commanded <hi>David</hi> by a Pro<g ref="char:EOLhyphen"/>phet, <hi>goe, reare an Altar</hi> there, 2 <hi>Sam.</hi> 24.18. The <hi>Lord</hi> appeared by an Angel unto <hi>Moses in Sina,</hi> and neere <hi>Iericho unto Iosuah:</hi> the story of <hi>Iosuah</hi> as<g ref="char:EOLhyphen"/>sures us, <hi>God</hi> was in an especial manner present <hi>there:</hi> and the story of <hi>Moses</hi> assures us, <hi>God</hi> was in an <hi>especiall</hi> manner present <hi>here,</hi> inaccessible<note n="u" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ioseph An<g ref="char:EOLhyphen"/>tiq. l 3. c. 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 2. c. 5.</note> it was, both for the steepnesse, and the height, and <hi>the fearefull residence of God</hi> in the Mount. <hi>Moses</hi> was the<note n="x" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ibid.</note>
+               <hi>first in those parts,</hi> that ever invaded it, saith <hi>Iosephus;</hi> and the people durst not doe so much, after hee had <hi>often</hi>
+               <note n="a" place="margin">Exod. 3.1. c. 19.3, 20, 24.</note> done so: <hi>afarre</hi>
+               <note n="b" place="margin">Exod. 20.18.</note>
+               <hi>off</hi> they are placed, and when they were <hi>sanctified</hi> too; and yet even <hi>here</hi> they seeme <hi>too neere. Moses's</hi> adventure passeth not without a<note n="c" place="margin">Ioseph. Ant. l. 2. c. 5.</note> check, though afterwards he received the <hi>Law,</hi> and now an <hi>embassy,</hi> from hence; and when he returnes from <hi>Aegypt,</hi> his offence must be expiated by <hi>sacrifice. God</hi> tels him <hi>the place is ho<g ref="char:EOLhyphen"/>ly,</hi> because <hi>his presence made it holy:</hi> for as the judge<g ref="char:EOLhyphen"/>ment seat is, where sits the <hi>Iudge;</hi> so where the <hi>Lord</hi> is, there is an <hi>Altar</hi> and an <hi>Oracle.</hi>
+            </p>
+            <note n="d" place="margin">
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Ibid.</note>
+            <pb n="15" facs="tcp:2500:9"/>
+            <p>And as the presence of <hi>God precedes</hi> consecration in those examples, so doth it <hi>follow</hi> in others. A place there was for <hi>Adams</hi> devotions and his families, which <hi>Cain,</hi> as the usuall idiom of Scripture is, cals <hi>the face</hi>
+               <note n="e" place="margin">1 Chron. 16.29. Ion. 1.3. Exod. 23.17. <hi>Walk. of sacril. &amp;c.</hi>
+               </note>
+               <hi>of God,</hi> according to the opinion of seve<g ref="char:EOLhyphen"/>rall Divines; and which face <hi>Abel</hi> enjoyed, <hi>God</hi> te<g ref="char:EOLhyphen"/>stifying his presence, as <hi>Theodotio</hi>
+               <note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mar. Sept.</note> renders, by firing his sacrifice, <hi>Gen.</hi> 4.5, 14. A <hi>tabernacle</hi> is erected for <hi>Israel</hi> in the wildernesse, and the same God, which <hi>commanded</hi> it to be consecrated, took possession of it, <hi>as soone as it was consecrated, Exo.</hi> 40.34. a <hi>Temple</hi> is erected for <hi>Israel</hi> in <hi>Canaan: Solomon</hi>
+               <note n="g" place="margin">2 Chron. 6. 1 Reg. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ioseph. Ant. l. 8. c. 2.</note> implores <hi>Gods</hi> especiall mercies, and his especiall assistance, and his especiall presence to such as should performe their Oraisons <hi>in,</hi> or <hi>towards</hi> that place, <hi>at the conse<g ref="char:EOLhyphen"/>cration;</hi> and all these follow <hi>upon the consecration</hi>
+               <note n="h" place="margin">2 Chro. 5.13, 14 1 Reg. 6. 13. c. 9.3.</note>, 2 <hi>Chron.</hi> 7.1. Whether therefore it be <hi>ordinary,</hi> or <hi>extraordinary,</hi> wheresoever a consecration is, <hi>there God especially is,</hi> by a peculiar dispensation of his gracious and mercifull presence: so was he to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and <hi>Iacob</hi> by his covenant and promise, so to <hi>Moses</hi> and <hi>Iosuah</hi> by his commission and assistance, so to that whole Nation by his <hi>immediate direction and audience,</hi> in the <hi>Tabernacle</hi> and the <hi>Temple.</hi>
+            </p>
+            <p>And, as there was a greater communication of the <hi>divine presence</hi> in these places, than in others (whence that <hi>erection</hi>
+               <note n="i" place="margin">1 Reg. 8.38, 42, 44, 48. 2 Chron. 6.25, 34. Dan. 6.10.</note>
+               <hi>of Altars,</hi> to <hi>continue</hi> his residence, where <hi>God</hi> appeared once; that praying of their living, and that placing of their dead<note n="k" place="margin">The Patriarchs i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Hebron</hi> lie North and South, and <hi>Hebron</hi> is South from <hi>Ierusa<g ref="char:EOLhyphen"/>lem. Bed. hist. l. 5. c. 18. &amp;c.</hi>
+               </note>, <hi>with their faces towards the Temple;</hi> that appellation of <hi>presence,</hi> or <hi>shew bread</hi>
+               <note n="l" place="margin">The <hi>Sept.</hi> call them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The <hi>Heb.</hi> face bread.</note>, that expression of the <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> by the <hi>face</hi>
+               <note n="m" place="margin">Esa. 37.14, 15. c. 66.23. 1 Sam. 10.25. Exod. 23.17.</note>
+               <hi>of God:</hi> of frequenting <hi>his Courts</hi> by<note n="m" place="margin">Esa. 37.14, 15. c. 66.23. 1 Sam. 10.25. Exod. 23.17.</note> comming <hi>before the Lord:</hi> those <hi>apparitions of
+<pb n="16" facs="tcp:2500:10"/> God</hi>
+               <note n="n" place="margin">
+                  <hi>To</hi> Abraham <hi>&amp;</hi> David, Gen. 22. 2 Sam. 24. Ioseph. Antiq. l. 7. c. 10. l. 1. c. 14. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>, where the <hi>Temple</hi> was to be built; that <hi>sere<g ref="char:EOLhyphen"/>nity of the weather,</hi> never rayning in<note n="o" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ioseph. Ant. l. 15. c. 14.</note> the day time, but in the night, as their historian relates, while the <hi>Temple</hi> was to be re-built; &amp; that <hi>departure of God,</hi> by a <hi>voice in the Temple from God</hi>
+               <note n="p" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ioseph de Bell. Iudaic. l. 7. c. 12.</note>, before the finall de<g ref="char:EOLhyphen"/>struction of it, under <hi>Titus Vespasian;</hi>) so was there a greater communication of the same presence in <hi>some parts</hi> of those places, than in <hi>others:</hi> and there<g ref="char:EOLhyphen"/>fore, though the glory of the <hi>Lord filled</hi> both the<note n="q" place="margin">Exod. 40.35 38. Ezek. 43.5. c. 44.4.</note>
+               <hi>Tabernacle</hi> and the <hi>Temple,</hi> yet it filled not <hi>all alike:</hi> for wee reade of the place of his <hi>Throne</hi>
+               <note n="r" place="margin">Ezek. 43 7.</note>, and of the <hi>soles of his feet:</hi> a place where he <hi>walkt</hi>
+               <note n="s" place="margin">Deut. 23.14. Esa. 37.14, 15. <hi>The Cherubins fa<g ref="char:EOLhyphen"/>ces were inward.</hi> 2 Chron. 3.14.</note>, and a place where he <hi>sate</hi>
+               <note n="s" place="margin">Deut. 23.14. Esa. 37.14, 15. <hi>The Cherubins fa<g ref="char:EOLhyphen"/>ces were inward.</hi> 2 Chron. 3.14.</note>; a place of his being, and a place of his <hi>rest</hi>
+               <note n="t" place="margin">Num. 10.35, 36. Psal. 132.8. Psal. 76.3. Psal. 87.2. 1 Sam. 4.7, 8. <hi>This shall bee my rest for ever.</hi>
+               </note>, a <hi>Tent</hi> and a <hi>mansion</hi>
+               <note n="t" place="margin">Num. 10.35, 36. Psal. 132.8. Psal. 76.3. Psal. 87.2. 1 Sam. 4.7, 8. <hi>This shall bee my rest for ever.</hi>
+               </note>
+               <hi>house;</hi> that as the <hi>earth,</hi> in comparison of <hi>this,</hi> saith <hi>Iosephus</hi>
+               <note n="u" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Antiq. l. 3. c. 5.</note>, and this as the <hi>heaven,</hi> in comparison of <hi>that:</hi> the <hi>Lord</hi> of <hi>Israel</hi> indeed may bee elsewhere, but the <hi>glory</hi> of<note n="x" place="margin">1 Sam. 4 22.</note>
+               <hi>Israel</hi> is <hi>here:</hi> and, although <hi>God</hi> may there meet with <hi>Moses, here Moses</hi> shall bee sure to meet with <hi>God, Exod.</hi> 30.16.</p>
+            <p>And as that distinction in holy places continued after <hi>Christ,</hi> so did the reason of that distinction too: the whole indeed is the <hi>house of God,</hi> so the <hi>Apostle</hi> cals<note n="a" place="margin">1 Tim 3.15.</note> it: because, although the <hi>Lord</hi> bee without these Walles, he is more <hi>within;</hi> as we are not pre<g ref="char:EOLhyphen"/>sumed to be so much abroad, as <hi>at home:</hi> and there<g ref="char:EOLhyphen"/>fore <hi>God</hi> is not only present <hi>extraordinarily himselfe there,</hi> as the decrees, the general opinion of Divines, with the formes of consecration shew: but, also, as a learned<note n="b" place="margin">
+                  <hi>B. Montag.</hi> Invoc. Saints p. <hi>153. sparsim.</hi> to the end of that Treatise.</note> Prelate of this Land hath, out of the
+<pb n="17" facs="tcp:2500:10"/>
+               <hi>ancient,</hi> collected to my hands, according to that representation of this truth, in <hi>Iacobs Ladder,</hi> he is present also, by his <hi>Ministers and Angels.</hi>
+            </p>
+            <p>And yet, though the <hi>Church</hi> conceived him to bee present in <hi>all</hi> parts of this house, it conceived him to bee more present in <hi>one</hi> part of this house, than in <hi>another.</hi> Which was the reason; that, not<g ref="char:EOLhyphen"/>withstanding the distribution of the Sacrament might be in other parts, the <hi>consecration was in one;</hi> where our <hi>Liturgy</hi> also hath enjoyned <hi>the second</hi>
+               <note n="c" place="margin">
+                  <hi>Rubric.</hi> before the Communion, and Churching.</note>
+               <hi>service</hi> to bee read; and after Childe-birth, the presentation of thankesgivings, and oblations: and all this, in respect of that peculiar dispensation of his presence <hi>in this division of the Church;</hi> as with<g ref="char:EOLhyphen"/>in the vayle, <hi>in that division of the Temple;</hi> having an <hi>Altar</hi> here answerable to a <hi>Mercy-seat there:</hi> as also, in respect of that union betwixt <hi>this</hi> place and his <hi>humane</hi> nature, <hi>that</hi> and his <hi>divine:</hi> for, as I like not <hi>Berengarius</hi>
+               <note n="d" place="margin">Sensualiter. de consecrat. dist. 2. c. 2. Ego Berenga<g ref="char:EOLhyphen"/>rius, <hi>which the glosse likes not.</hi>
+               </note> that said, he is <hi>sensually;</hi> nor <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>
+               <note n="e" place="margin">Carnaliter &amp; corporaliter. Vit. Pet. Mart. per Iosi<g ref="char:EOLhyphen"/>am Simlerum prae<g ref="char:EOLhyphen"/>fix. Com. in Gen.</note>
+               <hi>Martyr,</hi> whom he that writes his life tels us he said, he is <hi>carnally, and corporally</hi> there: because I like Saint <hi>Ambrose</hi>
+               <note n="f" place="margin">Quid quaeris na<g ref="char:EOLhyphen"/>turae ordinem in Christi corpore, cùm praeter natu<g ref="char:EOLhyphen"/>ram sit ipse Domi<g ref="char:EOLhyphen"/>nus natus ex Vir<g ref="char:EOLhyphen"/>gine? <hi>Ambros.</hi>
+               </note>, and <hi>Lombard</hi>
+               <note n="g" place="margin">Si quaeris mo<g ref="char:EOLhyphen"/>dum quo id fieri potest, respondeo, mysterium credi salubtiter potest, investigari salubri<g ref="char:EOLhyphen"/>ter non potest. <hi>Lomb.</hi> sent. 4. d. 11. a. 3. <hi>He gives this rule, but in this argument observes it not, as he should.</hi>
+               </note>, and <hi>Bucer</hi>
+               <note n="h" place="margin">
+                  <hi>His counsell to</hi> P. Martyr, ut in causa Coenae Dominicae, obscuris quibusdam &amp; ambigu<g ref="char:EOLhyphen"/>is dicendi formulis uteretur. Vit. <hi>P. Martyris</hi> per <hi>Ios. Simler.</hi> praefix. comment. in Genes.</note>, and <hi>Roffensis</hi>
+               <note n="i" place="margin">De potestat. Pap. in temporalibus. Praefat.</note>, and <hi>Harding</hi>
+               <note n="k" place="margin">Harding ibid. <hi>Salubriter credi potest, fideliter quaeri non potest.</hi> Those at Oxford in their dispu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations with <hi>Cranmer,</hi> out of <hi>Da<g ref="char:EOLhyphen"/>mascen.</hi> and <hi>Lanfrank. Iuell. vit p. 105.</hi> Which these were not so carefull to observe nei<g ref="char:EOLhyphen"/>ther, determining the <hi>modus</hi> too farre.</note> in this respect, who advise in this argument, forbearing the determina<g ref="char:EOLhyphen"/>tion of the <hi>manner,</hi> to clothe out phansies in <hi>gene<g ref="char:EOLhyphen"/>rall, and indefinite expressions:</hi> as I like not those that say he is <hi>bodily</hi> there, so I like not those that say
+<pb n="18" facs="tcp:2500:11"/> his <hi>body</hi>
+               <note n="l" place="margin">The Armenians. Brer. Enq. c. 24. <hi>and some mentioned by</hi> Theodoret. dial. 3. qui carnis verita<g ref="char:EOLhyphen"/>tem negantes, Eu<g ref="char:EOLhyphen"/>charistiam respue<g ref="char:EOLhyphen"/>bant, &amp;c.</note>
+               <hi>is not there,</hi> because <hi>Christ</hi>
+               <note n="m" place="margin">Mat. 26.26. Mark 24.22. Luke 22.19. Iohn 6.53.</note> saith 'tis there; and S. <hi>Paul</hi>
+               <note n="n" place="margin">1 Cor. 10.16. c. 11.24.</note> saith 'tis there; and the <hi>Church of England</hi>
+               <note n="o" place="margin">Eng. Liturg. Ar. ticl. <hi>28.</hi>
+               </note> saith 'tis there; and the <hi>Church of</hi>
+               <note n="q" place="margin">
+                  <hi>Roffens.</hi> praefat. citat. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Damas<g ref="char:EOLhyphen"/>cen.</hi> de def. &amp; de imag. Concil. Eph. Cod. Can. Eccles. ant. Rom. p. 100. <hi>Zonar.</hi> in Can. Ap. 3, 4, 8, 9, 31.19. Concil. Laod. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chrys.</hi> tom. 5. orat. 55. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. p 566. 581. tom. 3. in 1 Cor. 10. orat. 24. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. tot. <hi>The Altar cloth scarlet. Objected to</hi> Peter, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Conc. Constantinop. Gen 5. sub Me<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m act. 5</note>
+               <hi>God</hi> ever said 'tis there; and that <hi>truly,</hi> and <hi>substan<g ref="char:EOLhyphen"/>tially,</hi> and <hi>essentially,</hi> as the <hi>confessions of all the re<g ref="char:EOLhyphen"/>formed</hi>
+               <note n="p" place="margin">Harmon. Con<g ref="char:EOLhyphen"/>fess.</note>
+               <hi>Churches</hi> speak: and that not only by way of <hi>representation,</hi> or <hi>commemoration,</hi> and yet with<g ref="char:EOLhyphen"/>out either <hi>con</hi>
+               <note n="r" place="margin">
+                  <hi>Roffeas.</hi> Praef. cit.</note>, <hi>sub,</hi> or <hi>trans,</hi> which the ancient Church said not: by a <hi>reall,</hi> and neverthelesse, which the ancient Church said, a <hi>spirituall,</hi> and <hi>mysticall,</hi> and <hi>supernaturall presentation,</hi> and <hi>exhibition.</hi> For why should our Saviour bid us <hi>take,</hi> what he would not have us <hi>receive?</hi> We must believe <hi>'tis there,</hi> we must not know <hi>how 'tis there:</hi> our <hi>faith</hi> may see it, our <hi>sense</hi> cannot, 'tis a <hi>mystery,</hi> they all say; and 'twere no mystery, if 'twere <hi>knowne:</hi> his <hi>presence</hi> they determined, the <hi>manner of his presence</hi> they de<g ref="char:EOLhyphen"/>termined not: they said <hi>he is there,</hi> and they said <hi>the Lord knowes how.</hi> For <hi>why should we seeke him naturally in the Communion, whom naturally we cannot find in the wombe of the Virgin.</hi>
+            </p>
+            <p>Which beliefe of theirs, concerning the <hi>verity</hi> of <hi>Christs</hi> being in the <hi>Sacrament,</hi> occasioned also those frequent expressions of that <hi>place and mystery</hi> amongst the Ancient, by the names of <hi>Sacrifice</hi> and <hi>Altar.</hi> So the <hi>Apostles</hi> usually in their <hi>Canons</hi>
+               <note n="s" place="margin">
+                  <hi>Ap. Can.</hi> 3, 4, 5.9. &amp;c.</note>, and those too, which are <hi>undoubtedly theirs:</hi> so the same in those <hi>constitutions</hi>
+               <note n="t" place="margin">
+                  <hi>Ap. Const.</hi> l. 8. c. 13. &amp;c.</note>, which by many are <hi>thought to bee theirs.</hi> So <hi>Clement</hi>
+               <note n="u" place="margin">
+                  <hi>Clem.</hi> Ep. 1 Cor. p. 58, 53.</note>, in his Epistle
+<pb n="19" facs="tcp:2500:11"/> to the <hi>Corinthians:</hi> so the Councell of <hi>Ancyra</hi>
+               <note n="x" place="margin">Conc. Ancyr c. 1 2, 4, 5, 6, 7, 8.15, &amp;c</note>, of <hi>Neocaesarea</hi>
+               <note n="a" place="margin">Concil. Neocae<g ref="char:EOLhyphen"/>sar. c. 9 13. &amp;c.</note>, of <hi>Gangra</hi>
+               <note n="b" place="margin">Cō. Gang. c 4. &amp;c</note>, of <hi>Laodicaea</hi>
+               <note n="c" place="margin">Concil. Laod. c. 19, 44, 49, 56, 58, &amp;c.</note>, the <hi>Nicene</hi>
+               <note n="d" place="margin">Concil. Nicen c. 5, 11, 13, 18, &amp;c.</note> and the <hi>Trullan</hi>
+               <note n="e" place="margin">Concil. Trull. c. 3.</note> Councels; so the <hi>Nomo<g ref="char:EOLhyphen"/>canon</hi>
+               <note n="f" place="margin">
+                  <hi>Nomoc. Plot.</hi> tit. 2. c. 3. c. 15.7. tit. 12. c. 8. tit. 13 c. 17, &amp;c. tit. 3. c. 1, 4, 8, 9. tit 12. c. 6, 9. tit. 1. c. 14, 22, 20.</note>, <hi>the Code of the universall</hi>
+               <note n="g" place="margin">Cod. Can. Eccles. univers. c. 84, 123, 148, &amp;c.</note>, the <hi>African</hi>
+               <note n="h" place="margin">Cod. Can. Eccles. African. c. 4, 8, 7, 10, 11, 14, 37, 41, 70, 74, 103, &amp;c.</note>, the <hi>ancient</hi>
+               <note n="i" place="margin">Cod. Can Eccles. antiq. Rom. p. 109, 375, 435, 455, 439, 402, &amp;c.</note>
+               <hi>Romane Church.</hi> So as many of the <hi>ancient</hi>
+               <note n="k" place="margin">
+                  <hi>Ignat.</hi> Ep. Smyrnens. p. 168. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. p. Ephes. p. 218. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ep. Tars. p. 27. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>At the first planting of the Faith in this Land Altars built of stone.</hi> Bed. hist. l. 1. c. 30. l. 2. c. 14. Chrys. <hi>writing against the Gentiles, useth the largenesse of</hi> Christs <hi>kingdome, for an argument to convince them, on that of our</hi> Saviour Mat. 16. Super hanc petram aedificabo ecclesiam me<g ref="char:EOLhyphen"/>am. Orat. 61. Quod Christus sit Deus, contra Iudaeos &amp; Gentiles, tom. 6. p. 634. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>▪ Divinis reconciliari altaribus. <hi>Lomb.</hi> Sent. 4. d. 20. a. 6. <hi>Bed</hi> l 1 c 15, 20 27, 30. l. 2. c. 1 3, 20. l. 3. c. 2. l. 4. c. 2. l. 5. c. 20, 21, 17, 18. <hi>The high Altar.</hi> l. 5. c. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Phot. No<g ref="char:EOLhyphen"/>moc.</hi> tit. 13.17. <hi>The</hi> Donatists <hi>enemies to</hi> Altars <hi>Optat.</hi> l. 1. <hi>Aug.</hi> to 10. hom. 50. Ad hoc Altare quod nunc in Ecclesia est in terra positum, terrenis oculis expositum, ad mysteriorum signa<g ref="char:EOLhyphen"/>cula celebranda, multi etiam scelerati possunt accedere ad illud autem Altare, quod praecur<g ref="char:EOLhyphen"/>sor pro nobis introivit Iesus, nullus eorum accedere poterit. Lutherani non horrent altaris, oblationis{que} nomen <hi>Pelarg.</hi> The side fract. panis Euchar p. 66, 69 Massaliani sive Euchetae Templorum, &amp; Ararum adjecêre contemptū <hi>Damasc.</hi> de haeres. hujus s<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ficij caro &amp; san<g ref="char:EOLhyphen"/>guis, ante adventum Christi per victimas similitudinum permitteba<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Aug</hi> de Civ. Dei. l. 17. c. 20. Habemus &amp; Altare, Heb. 13. <hi>of this. Answer to Cardinall <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reply</hi> p. 6, 7. <hi>by the Bishop of</hi> Winchester. <hi>And therefore the name of</hi> Priest <hi>as usuall</hi> C<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Can. Eccles. Rom. Can. Ap. c. 5.7.9.47. Proleg. in 4. univers. Concil. Concil. Ancyr. c <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Concil. Antioch. c. 1.17, 19. Concil. Laod. c. 3, 5, 13, 19, 42, 54, 55, 101, 102, 103, 111. Concil. Chalced. c. 26. p. 133. Conc. Sard. c. 11, 13. Concil. Carthag. c. 3, 15, 24, 6 14, 20, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2, 3<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 41, 53, 64 Ejusdem Cod. p. 369, 371, 376, 379, 388, 389, 391, 394, 395, 396, 397, 400, 4<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5, 401, 415, <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>21, 423, 424, 425, 434, 435, 437, 440, 449, 463, 464, 477, 478, 479, 480, 482, 483, 484, 485, 490, 491, <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>93, 498, 499, 500, 503, 505, 511, 512, 513, 522, 539, 540, 544, 547, 549, 552, 556, 558, 570, 571, 573▪ <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>74, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>79, 580 581 180, 181, 208, 210, 230, 278, 314, 315, 244, 348, 357, 363, 316, 318, 319, 321, 325, 330, 332▪,<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>36, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>38, <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, 441 342, 343, 367, 368, &amp;c. <hi>And the same are as numerous in the<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> these.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of prayer for diverting Gods visitation, Edit. 1625. p 3, 4, 30, 31, 56, 57, 58, 59, 70, 71, 72, 79. Articl. Edit. 1580. 17, 23, 24. Articl. Edit. 16. 34. 4, 5. <hi>The form of prayer for d<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rting Gods visitation, in the yeare of our Lord,</hi> 1636. <hi>And in as many places as the other.</hi> Chrys. <hi>Liturgie, with the other, know no other expression for such, but</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>and those have read none of the</hi> ancient, <hi>that have not read</hi> this.</note>
+               <pb n="20" facs="tcp:2500:12"/> as I have read; wherein, as farre as I have per<g ref="char:EOLhyphen"/>used, I believe a man may safely <hi>vie</hi> places, and in many allow <hi>twenty for one.</hi> And so <hi>Ignatius</hi> in severall Epistles: which makes me the more won<g ref="char:EOLhyphen"/>der, <hi>Vedelius</hi>
+               <note n="l" place="margin">Apolog. pro <hi>Ig<g ref="char:EOLhyphen"/>nat.</hi> c. 4. Exercit. in Epist. ad Magnes. c. 4. Exercit. in Ep. ad Philadelph. c. 18 <hi>He strives to cor<g ref="char:EOLhyphen"/>rupt Epist. Ephes. by fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sting in</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mar. &amp; not. crit. p. 140.</note> should have the face to deny the use of these words with any of the <hi>Primitive times,</hi> unlesse his exercitations were <hi>ready,</hi> before his Au<g ref="char:EOLhyphen"/>thor was <hi>read.</hi>
+            </p>
+            <p>And were there no other reason to warrant the especiall dispensation of his favour and presence, in this place, <hi>besides this;</hi> I see no reason any should stick at <hi>this:</hi> seeing 'tis just that place should have a pre-eminence <hi>above the rest,</hi> from which<note n="m" place="margin">
+                  <hi>Chrys.</hi> shewes all benefits and mercies to be dis<g ref="char:EOLhyphen"/>pensed to us from the death of <hi>Christ,</hi> which is represent<g ref="char:EOLhyphen"/>ed there. <hi>In 1 Cor. 10. Hom. 24. E<g ref="char:EOLhyphen"/>thic.</hi>
+               </note> vertue, and efficacy is derived <hi>to the rest:</hi> for the Word which we preach is not operative, but through the merit of <hi>that sacrifice:</hi> nor those streames of rege<g ref="char:EOLhyphen"/>neration pure and cleane, any thing <hi>regenerative</hi> at all, unlesse <hi>first</hi> bathed and washed in his <hi>bloud.</hi> Nor can any say, this grace of his extraordinary residence, and assistance or operation which we pre<g ref="char:EOLhyphen"/>sume here, is greater than <hi>Ecclesiasticall Writers</hi> or<g ref="char:EOLhyphen"/>dinarily ascribe to those parts our <hi>Saviour</hi> in his Humanity conversed <hi>principally</hi> in, to those things he <hi>used,</hi> or were <hi>used against</hi>
+               <note n="n" place="margin">
+                  <p>
+                     <hi>Damascen.</hi> de fid. Orthod. l. 4. c. 16. de imag. &amp;c. &amp; def. <hi>Bed.</hi> Eccles. hist. <hi>Chrys.</hi> tom. 6. Orat. 61. Quod Christus Deus, contra Iudaeos &amp; Gentiles. p. 631, 632.</p>
+                  <p>
+                     <hi>Damasc.</hi> de imag. Orat. 1. p. 705, 706, 707, 721, 722, 723, 724.</p>
+               </note>
+               <hi>him:</hi> no more than his <hi>garment</hi> had, in Saint <hi>Marke</hi>
+               <note n="o" place="margin">Mar. 6.56.</note>; or his <hi>spittle,</hi> in Saint <hi>Iohn</hi>
+               <note n="p" place="margin">Ioh. 9.6.</note>; no more than the <hi>rod of Moses</hi> in <hi>Exodus</hi>
+               <note n="q" place="margin">Exod. 7. &amp; 14.</note>; the <hi>mantle of</hi>
+               <note n="r" place="margin">2 Reg. 2.</note>
+               <hi>Eliah,</hi> or the <hi>bones of</hi>
+               <note n="s" place="margin">2 Reg. 13.20.</note>
+               <hi>Eli<g ref="char:EOLhyphen"/>sha</hi> in the <hi>Kings:</hi> no more than the <hi>handkerchiefe</hi> of Saint <hi>Paul</hi> in the 19.<note n="t" place="margin">Acts 19.12.</note> of the <hi>Acts,</hi> or in the 5. <hi>the</hi>
+               <note n="u" place="margin">Acts 5.15.</note>
+               <hi>shadow of</hi> Saint <hi>Peter.</hi>
+            </p>
+            <p>I need not range for an Application, because the <hi>Lord</hi> hath brought it to my hands. <hi>Many people shall say, come, let us goe up to the mountaine of the
+<pb n="21" facs="tcp:2500:12"/> Lord, to the house of the God of Iacob, and he will teach us his wayes, and we will walke in his paths; for out of Sion shall the Law of the Lord goe forth, and the word of the Lord from Ierusalem.</hi> A prophecie it is <hi>of the Church:</hi> and it is in our power to fulfill this prophecie, by our comming <hi>to the Church: many people shall say;</hi> (and ô that many people may ever say so) come, <hi>let us go from strength to strength,</hi> as <hi>David</hi>
+               <note n="o" place="margin">Ab acie in aci<g ref="char:EOLhyphen"/>em. <hi>Iun.</hi> &amp; <hi>Trem.</hi> de bande en bande. <hi>Fre. Bib.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Sept. Sen.</hi> de vir<g ref="char:EOLhyphen"/>tute in virtutem. <hi>Vulg.</hi> id est, à coetu uno sacro ad alte<g ref="char:EOLhyphen"/>rum, ad exercen<g ref="char:EOLhyphen"/>dum publicè to<g ref="char:EOLhyphen"/>tum Dei cultum. Metaphora à re militari. <hi>Iun.</hi> &amp; <hi>Trem.</hi> in loc.</note> speakes; that is, <hi>de acie in aciem,</hi> say in<g ref="char:EOLhyphen"/>terpreters<note n="o" place="margin">Ab acie in aci<g ref="char:EOLhyphen"/>em. <hi>Iun.</hi> &amp; <hi>Trem.</hi> de bande en bande. <hi>Fre. Bib.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Sept. Sen.</hi> de vir<g ref="char:EOLhyphen"/>tute in virtutem. <hi>Vulg.</hi> id est, à coetu uno sacro ad alte<g ref="char:EOLhyphen"/>rum, ad exercen<g ref="char:EOLhyphen"/>dum publicè to<g ref="char:EOLhyphen"/>tum Dei cultum. Metaphora à re militari. <hi>Iun.</hi> &amp; <hi>Trem.</hi> in loc.</note>: from the violence, and assault of one holy assembly to another. Let our <hi>hallelujahs</hi> be sent up like the <hi>roaring of the Sea,</hi> and our <hi>Amens</hi> like <hi>a clap of thunder,</hi> as Saint <hi>Hierom</hi> relates of the <hi>Primitive Christians:</hi> for <hi>thus</hi> is the Church <hi>an ar<g ref="char:EOLhyphen"/>my with banners in the Canticles,</hi> and <hi>no way but thus.</hi> Let us not only <hi>invade God</hi> by our <hi>single</hi> devotions, but by our <hi>united cries beleager and besiege him.</hi> 'Tis <hi>the mountaine of the Lord,</hi> because he builds on a <hi>Rock</hi> that layes his foundation here; and, he that doth not, builds on the <hi>sand,</hi> and 'tis <hi>the house of the Lord,</hi> whom we shall find no where, if not <hi>here;</hi> because to pray, <hi>in Gods language,</hi> is to <hi>meet</hi>
+               <note n="p" place="margin">Iob 20.15. <hi>Sept. Sen.</hi>
+               </note>
+               <hi>with God;</hi> and he that pretends businesse to keep him<g ref="char:EOLhyphen"/>selfe from <hi>hence,</hi>
+               <note n="q" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chrys.</hi> 10.5. orat. 13. p. 72.</note> saith something is more necessa<g ref="char:EOLhyphen"/>ry than <hi>he,</hi> he will teach us his wayes here, and he will give us grace to walk in his wayes here too: because <hi>he that comes not willingly to Church, must go unwillingly to hell;</hi> saith that fearefull proverbe in <hi>Bede</hi>
+               <note n="r" place="margin">
+                  <hi>Bed</hi> hist. l. 5. c. 15</note>, which he warrants by as fearefull an ex<g ref="char:EOLhyphen"/>ample. There is a balme justified by some<note n="*" place="margin">
+                  <hi>Goclen,</hi> &amp;c.</note>, which cures at any distance; but <hi>this balme of Gilead</hi> doth not: it must be applied to the <hi>wound,</hi> not to the <hi>sword;</hi> nor can a Sermon have any influence on such
+<pb n="22" facs="tcp:2500:13"/> as are not <hi>there. The wedding is prepared, goe ye therefore into the high-wayes, and bid to the wedding,</hi> goe not into their <hi>Chambers,</hi> but unto their <hi>wayes,</hi> where men <hi>are to be,</hi> not where they are <hi>not to be</hi> at such times; bid those ye find <hi>there,</hi> but bid not those ye find <hi>not there,</hi> saith our <hi>Saviour</hi>
+               <note n="s" place="margin">Matth. 22.8.</note> in the Gospell. For, as when we receive summons from our Superiours, the messenger seeks us not in idling places, pursues us not into the fields, comes not to our sports to warne us, but to our houses, there reads his message, as if we <hi>were there,</hi> because we <hi>should be there,</hi> and then, without any further enquiry, departs, fastning the Script upon our doores. In like manner, the Priests are <hi>Gods Am<g ref="char:EOLhyphen"/>bassadors,</hi> saith Saint <hi>Paul</hi>
+               <note n="t" place="margin">2 Cor. 5.20.</note>: they are his <hi>messengers,</hi> saith <hi>Malachi</hi>
+               <note n="u" place="margin">Mal. 2.7.</note>: God supposeth every man <hi>at home,</hi> and so do they; because at all <hi>consecrated</hi> houres, they are presumed to have no houses, <hi>but such. Out of Sion shall the Law of the</hi> LORD <hi>goe forth, and the word of the</hi> LORD <hi>from Ierusalem:</hi> from <hi>Sion in Ierusalem;</hi> but <hi>not from Ierusalem without Sion:</hi> from <hi>his Temple</hi> where he <hi>especially is,</hi> but not so <hi>out of his Temple,</hi> where he <hi>so especially is not, Esa</hi> 2.3.</p>
+            <p>We find no <hi>stately Churches</hi> in the first ages after <hi>Christ, meaner Oratories</hi> we find: no <hi>such</hi>
+               <note n="x" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ignat.</hi> Epist Magnes. <hi>Ar<g ref="char:EOLhyphen"/>nob.</hi> cont. Gent. l 6. <hi>Minut.</hi> Octav. vid. <hi>Vedel.</hi> in Ep. Mag<g ref="char:EOLhyphen"/>nes. c 4. Rev. 12.6.</note>
+               <hi>Altars</hi> as the Heathens had, had the Christians: nor <hi>no such Temples</hi> then. The Woman was in the <hi>Wildernesse,</hi> in those Pagan times, and who looks for state, or costlinesse <hi>there?</hi> Had those happy soules been blest with such, as we, by the gracious wisdome of a <hi>Religious Prince,</hi> and the carefull devotion of those Governours under him, enjoy: the ebbe would not
+<pb n="23" facs="tcp:2500:13"/> have beene formerly <hi>so low,</hi> when the Organ was <hi>so high: Canonicall houres</hi> had beene <hi>more canoni<g ref="char:EOLhyphen"/>cally</hi> kept; nor would those seats have beene so lanke at prayer, whose originall and fundamentall businesse is nothing but to pray, their <hi>midnights</hi> would have more filled such, than our <hi>noones. What shall be the signe, that I shall goe up to the house of the Lord,</hi> saith <hi>Hezekiah</hi>
+               <note n="a" place="margin">2 Reg. 20.8, 9.</note>? <hi>Shall the shadow goe for<g ref="char:EOLhyphen"/>ward ten degrees, or goe backward,</hi> saith <hi>Esaiah?</hi> The Sunne is too fleet for our zeale already, our Re<g ref="char:EOLhyphen"/>ligion is too long divided betwixt the combe and the glasse, to pray at <hi>that rate:</hi> and therefore, if the Sun go forward, 'tis a signe we shall not go up; bid the Sun go backward, and <hi>then</hi> perchance we may. The <hi>Pelagians</hi> said, there is no sin but by <hi>imitation:</hi> but, if <hi>this</hi> had ruled us, <hi>that</hi> had not beene: for I would all of us sailed by <hi>this Card,</hi> and all our light were borrowed from <hi>this Sunne: Whom remember, O my God,</hi>
+               <note n="b" place="margin">Nehem. 13.14.</note>
+               <hi>concerning this, and wipe not out the good deeds that he hath done for the house of my God, and for the offices thereof: blessed are they that dwell in thy house,</hi> saith <hi>David,</hi> and therefore blessed be he. God loves an <hi>early</hi> devotion, and an <hi>humble</hi> too: <hi>We will come,</hi> saith the <hi>Psalmist,</hi> and <hi>we will fall low besides:</hi> for, as we may appeare in a Court; and yet, <hi>by the omission of our service,</hi> may be judged not to be <hi>there:</hi> so <hi>if we neglect our homage,</hi> we are <hi>absent,</hi> though we are <hi>here:</hi> by which I am con<g ref="char:EOLhyphen"/>veighed to the illation upon this reason, and my last generall.</p>
+            <p n="3">3 The assumption flowes so naturally from the <hi>postulata</hi> or <hi>lemmata,</hi> that I might conclude as <hi>Ma<g ref="char:EOLhyphen"/>thematicians</hi> use; with a <hi>constat quod erat demonstran<g ref="char:EOLhyphen"/>dum;</hi>
+               <pb n="24" facs="tcp:2500:14"/> wer't not my resolution to prescribe for the one, as well as for the other; that, as the <hi>Church of England</hi> assumes <hi>the same premisses,</hi> so doth she in<g ref="char:EOLhyphen"/>ferre <hi>the same conclusion</hi> the Church of <hi>God</hi> hath <hi>ever</hi> done before. A <hi>different holinesse</hi> confest there is <hi>of places:</hi> and 'tis confest too, this ariseth from a <hi>different presence of God in places:</hi> and there must follow therefore, as by the learned 'tis confest be<g ref="char:EOLhyphen"/>sides, a <hi>different respect towards those places:</hi> else were there not a suitablenesse betwixt <hi>honour</hi> and <hi>merit,</hi> which <hi>naturall justice</hi> requires; nor should we weigh out our distances so evenly to <hi>God,</hi> as we doe to <hi>man:</hi> as the <hi>King</hi> shines more or lesse up<g ref="char:EOLhyphen"/>on men, we more or lesse regard them, and measure out a different rate of <hi>honour</hi> or <hi>worship,</hi> according to that <hi>different proportion</hi> of either which he be<g ref="char:EOLhyphen"/>stowes. We reade of <hi>civill respects</hi> from <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>
+               <note n="c" place="margin">Gen. 23.7.</note> to <hi>Ephron,</hi> from his servant<note n="d" place="margin">Gen. 24.26.</note> to him, from <hi>Ia<g ref="char:EOLhyphen"/>cob</hi> to<note n="e" place="margin">Gen. 33.3, 6, 7.</note>
+               <hi>Esau,</hi> from the<note n="f" place="margin">Gen. 41.45. c. 37.8, 9, 10. c. 42.6. c. 43.27, 29. c. 50.18.</note>
+               <hi>Egyptians</hi> to <hi>Ioseph,</hi> from <hi>Ioseph</hi>
+               <note n="g" place="margin">Gen, 49.9.</note> to <hi>Iacob,</hi> from <hi>Moses</hi>
+               <note n="h" place="margin">Exod. 18.7.</note> to <hi>Iethro,</hi> from <hi>Ruth</hi>
+               <note n="i" place="margin">Ruth. 2.10.</note> to <hi>Boaz,</hi> from <hi>Iudith</hi> to<note n="k" place="margin">Iudith 10.20.</note>
+               <hi>Holofernes,</hi> from <hi>Solomon</hi>
+               <note n="l" place="margin">1 Reg. 2.19.</note> to <hi>Bathsheba,</hi> from <hi>Ahazias</hi>
+               <note n="m" place="margin">2 Reg. 2.15. c. 1.13.</note> Ambassa<g ref="char:EOLhyphen"/>dor to <hi>Eliah,</hi> from <hi>Saul</hi> to<note n="n" place="margin">1 Sam 28.14.</note>
+               <hi>Samuel,</hi> from <hi>Nebu<g ref="char:EOLhyphen"/>cadnezzar</hi>
+               <note n="o" place="margin">Dan. 2.46.</note> to <hi>Daniel.</hi> And we reade of <hi>loyall re<g ref="char:EOLhyphen"/>spects</hi> from <hi>David</hi>
+               <note n="p" place="margin">1 Sam. 24.10.</note> to <hi>Saul;</hi> from <hi>Araunah</hi>
+               <note n="q" place="margin">2 Sam. 24.20. 1 Paralip. 21.21.</note>, and <hi>Abigail</hi>
+               <note n="r" place="margin">1 Sam. 25.24, 41</note>, and the <hi>Amalekites</hi>
+               <note n="s" place="margin">2 Sam. 1.2.</note>, and <hi>Mephibosheth</hi>
+               <note n="t" place="margin">2 Sam. 9.6, 8.</note>, and the Woman<note n="u" place="margin">2 Sam. 14.4.</note> of <hi>Tecoa,</hi> and <hi>Ioab</hi>
+               <note n="x" place="margin">2 Sam. 14.24.</note>, and <hi>Shi<g ref="char:EOLhyphen"/>mei</hi>
+               <note n="a" place="margin">2 Sam. 19.18.</note>, and <hi>Chusi</hi>
+               <note n="b" place="margin">2 Sam. 18.2.</note>, and <hi>Ahimaaz</hi>
+               <note n="c" place="margin">2 Sam. 18.28.</note>, and <hi>Bathsheba</hi>
+               <note n="d" place="margin">1 Reg. 1.16.31.</note>, and <hi>Nathan</hi>
+               <note n="e" place="margin">1 Reg. 1.23.</note>, to <hi>David,</hi> and from <hi>Adoniah</hi>
+               <note n="f" place="margin">1 Reg. 1.53.</note> to <hi>So<g ref="char:EOLhyphen"/>lomon;</hi> nor to their <hi>persons</hi> alone, but to their <hi>pour<g ref="char:EOLhyphen"/>traitures</hi>
+               <note n="g" place="margin">The lowlinesse of the <hi>Sultans</hi> homage to the <hi>Caliph of Egypt. Guil. Tyr.</hi> the violation of <hi>Theodos.</hi> statues, how dangerous. Chrysost. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Congeyes perform<g ref="char:EOLhyphen"/>ed to <hi>Iulians. Naz.</hi> Invect. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Damasc. <hi>orth. fid. l. 4. c. 3.</hi>
+               </note>, their <hi>robes,</hi> their <hi>armes royall,</hi> their chaires of <hi>State,</hi> their Chambers of <hi>Presence,</hi> because as the <hi>King</hi> is represented in his <hi>Nobles,</hi> so <hi>God</hi> is in the
+<pb n="25" facs="tcp:2500:14"/>
+               <hi>King.</hi> And we read of <hi>reverentiall respects</hi> to the <hi>Tabernacle,</hi> and<note n="h" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Damascen.</hi> orth. fid. l. 4. c. 12, 16. Orat. 1. de i<g ref="char:EOLhyphen"/>mag. Orat. 2. de i<g ref="char:EOLhyphen"/>mag. Orat. 3. de i<g ref="char:EOLhyphen"/>mag. <hi>in</hi> 24. <hi>seve<g ref="char:EOLhyphen"/>rall places at least of those orations.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> In <hi>Mich. Comnenus</hi> Calend. <hi>Phot. No<g ref="char:EOLhyphen"/>moc.</hi> tit. 7. c. 1. Con<g ref="char:EOLhyphen"/>cil 7 Gen. Nicen. <hi>Phot.</hi> de synod. Num. 22.31. <hi>Bed.</hi> hist. l. 1. c. 18, 29, 30. l. 3. c. 6, 9, 10, 11, 12, 13, 17, 29 l. 4. c. 10, 30. <hi>Phot. Nomoc.</hi> tit. 8. cap. 1. tit. 7. cap. 1. tit. 9. c. 27. tit. 13. c. 23. <hi>Damasc.</hi> de dormit. Dei ge<g ref="char:EOLhyphen"/>netricis. Ser. 2. &amp; Ser. 1. ci<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. fin. in in<g ref="char:EOLhyphen"/>ventione capitis Praecursoris. pag. 608. Confess. p. 675. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>and that</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chrys.</hi> Liturg. vid. caeteras Graecorum Litur<g ref="char:EOLhyphen"/>gias.</note> the <hi>Temple,</hi> and the <hi>Crosse,</hi> and the <hi>Gospels of</hi> CHRIST: for as <hi>persons</hi> and <hi>things</hi> have ever beene in a <hi>Religious</hi> or <hi>civill</hi> esteeme, so have <hi>Religious</hi> and <hi>civill</hi> persons <hi>ever</hi> esteemed them: and one Starre differeth from another no more in <hi>height,</hi> than in <hi>glory.</hi> Nor is all this to in<g ref="char:EOLhyphen"/>sinuate the derivation of <hi>Gods</hi> honour upon any <hi>besides God (God</hi> divert that <hi>damnable Idolatry</hi> as far from me, as hee hath done from the Church of <hi>God</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith <hi>Damascen</hi>
+               <note n="i" place="margin">
+                  <hi>Damascen.</hi> Orat. 1. de imag.</note>. Some have a <hi>civill</hi> respect, others a <hi>Religious</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in <hi>Ignat.</hi> Ep. Tars. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Damascen.</hi> O<g ref="char:EOLhyphen"/>rat. 2. de imag. &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>Ibid. A reverence to the place where God did manifest his presence.</hi> Mason. <hi>of fast. c.</hi> 3. <hi>p.</hi> 22. Reverentia vel honor religiosus —debetur omnibus ijs quae propriè spectant ad cultum— <hi>And 'tis religious too, not only</hi> quia imperatur à re<g ref="char:EOLhyphen"/>ligione, <hi>but also because</hi> fundamentum habet in relacione rei aut personae alicujus ad reli<g ref="char:EOLhyphen"/>gionem, &amp; cultum sacrum. <hi>Ames.</hi> de Conscient. l. 4. c 31. §. 1. Honor ille qui Deo debetur, non potest ipsi debito modo exhiberi, nisi cum singulari reverentia tracte<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur ejus instru<g ref="char:EOLhyphen"/>menta; propter arctam illam connexionem &amp; relationem, quae inter actum aliquem, &amp; instrumenta actus intercedit. §. 2.</note>, but the <hi>Lord</hi> only a <hi>divine:</hi> for, as the infinitude of his na<g ref="char:EOLhyphen"/>ture cannot be comprehended under the same kinde of <hi>being,</hi> so neither can it be comprehended under the same kinde of <hi>worship</hi> with a creature: but on<g ref="char:EOLhyphen"/>ly to shew, by what <hi>naturall and rationall proporti<g ref="char:EOLhyphen"/>ons,</hi> the Church rose by way of <hi>supereminency,</hi> as the Schooles speake, from a <hi>relative</hi> respect of di<g ref="char:EOLhyphen"/>vine <hi>things,</hi> to an <hi>absolute</hi> respect of the divine <hi>Es<g ref="char:EOLhyphen"/>sence;</hi> and from a just valuation of <hi>Man,</hi> to a right estimate of <hi>God.</hi> We seldome finde adoration un<g ref="char:EOLhyphen"/>der the Law (the strictest time against superstition <hi>of any</hi>) without <hi>prostration of the body, and inclina<g ref="char:EOLhyphen"/>tion</hi> too: so did <hi>Lot</hi>
+               <note n="k" place="margin">Gen. 19.1.</note>; so did <hi>Abraham</hi>
+               <note n="l" place="margin">Gen. 18.2.</note>; so did his
+<pb n="26" facs="tcp:2500:15"/> servant<note n="m" place="margin">Gen. 24.26, 48, 52.</note>; so did <hi>Israel</hi>
+               <note n="n" place="margin">Exod. 4.31. c. 11 8. c. 12.28. c. 20.5. c. 23.24. c. 24.1. c. 33.10. Nehem. 8.6. Iudith 6.14.</note>; so did <hi>Moses</hi>
+               <note n="o" place="margin">Exod. 34.8.14. Numb. 16.4.22, c. 20.6.</note>; so did <hi>Ioshuah</hi>
+               <note n="p" place="margin">Ios. 5.15. c. 6.6.</note>; so did <hi>David</hi>
+               <note n="q" place="margin">1 Sam. 28.41. 1 Reg. 1.47.</note>; so did <hi>Ezekiel;</hi> so did <hi>Daniel</hi>
+               <note n="s" place="margin">Dan. 6.10.</note>; so did <hi>Maccabeus</hi>
+               <note n="t" place="margin">1 Mac. 4.55. 2 Mac. 10.4.</note>; and therefore by a <hi>Metonymia signi,</hi> and a <hi>Senecdoche partis,</hi> through those sacred volumes, this is frequently used <hi>alone</hi>
+               <note n="n" place="margin">Exod. 4.3 1. c. 11 8. c. 12.28. c. 20.5. c. 23.24. c. 24.1. c. 33.10. Nehem. 8.6. Iudith 6.14.</note>, to designe the <hi>whole service of God;</hi> as, if <hi>all</hi> were <hi>out,</hi> if <hi>this</hi> were <hi>not in:</hi> which was done with their faces towards the <hi>mercy seat, at the gate they shall worship God,</hi> saith <hi>Ezekiel</hi>
+               <note n="a" place="margin">Ezek. 46.2, 3. Domus oraculi di<g ref="char:EOLhyphen"/>citur, quod versus eam à sacerdotibus &amp; populo orare<g ref="char:EOLhyphen"/>tur. <hi>Tostat.</hi> in 3 Reg. 6. q. 13. <hi>The entrance of the Tabernacle towards the East.</hi> Ioseph. Antiq. l. 3. c. 5. Moses <hi>commanded them, when they came to</hi> Canaan, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 4. c. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 8. c. 2. <hi>The lavers of the Temple</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. c. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 11. c. 5.</note>: because the gate was over against GOD; the Temple being built in a <hi>length,</hi>
+               <note n="r" place="margin">Ezek. 44.4.</note> and the entry before the <hi>Oracle</hi> (which from their constant manner of praying that way, thence had the <hi>Oracle</hi>
+               <note n="a" place="margin">Ezek. 46.2, 3. Domus oraculi di<g ref="char:EOLhyphen"/>citur, quod versus eam à sacerdotibus &amp; populo orare<g ref="char:EOLhyphen"/>tur. <hi>Tostat.</hi> in 3 Reg. 6. q. 13. <hi>The entrance of the Tabernacle towards the East.</hi> Ioseph. Antiq. l. 3. c. 5. Moses <hi>commanded them, when they came to</hi> Canaan, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 4. c. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 8. c. 2. <hi>The lavers of the Temple</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. c. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 11. c. 5.</note> its name) and this as well <hi>without</hi> the land,<note n="u" place="margin">Levit. 6.1. 1 Reg. 19.18. Psal. 94.6. Esa. 17.7, 8. c. 46.6. c. 36.7. c. 27.13. c. 60.13, 14. c. 66.23. Mic. 6.6. 2 Reg. 18.22. Psal. 138.2.</note> as <hi>within;</hi> so <hi>Salomon</hi>
+               <note n="b" place="margin">1 Reg. 8.</note> in his prayer pre<g ref="char:EOLhyphen"/>sumed; and <hi>Daniel</hi>
+               <note n="c" place="margin">Dan. 6.10.</note> in his prayer did so: and that, although the <hi>Iewish Tabernacle and Temple,</hi> whither their eye directed their Oraisons, were engraven with <hi>Cherubims</hi>
+               <note n="d" place="margin">1 Reg. 6.35. Exod. 36.35.</note> too. And <hi>all this;</hi> because, 'tis <hi>facies mea, my face,</hi> in <hi>Esaiah</hi>
+               <note n="e" place="margin">Esa. 66.23.</note> here: and <hi>Vestigia pedum meorum, my steps</hi> there<note n="f" place="margin">Esa. 60.13, 14.</note>. 'Tis <hi>coram Domi<g ref="char:EOLhyphen"/>no, before the Lord,</hi>
+               <note n="z" place="margin">
+                  <hi>Damasc.</hi> Orth. fid. l. 4. c. 17. de i<g ref="char:EOLhyphen"/>mag. orat. 1. de i<g ref="char:EOLhyphen"/>mag. orat. 2.</note> in one place of <hi>Ezekiel</hi>
+               <note n="g" place="margin">Ezek. 46.3.</note>, and <hi>glo<g ref="char:EOLhyphen"/>ria Domini, the glory of the Lord,</hi> in another<note n="h" place="margin">Ezek. 44.4. <hi>The courts of my ho<g ref="char:EOLhyphen"/>linesse,</hi> Esa. 62.9.</note>. <hi>Ye shall reverence my Sanctuary, I am the Lord:</hi> I am the <hi>Lord</hi> that am <hi>there,</hi> and therefore ye shall doe your reverence <hi>there;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: nor to the <hi>place</hi> so much, as to <hi>me</hi> that am presentiall <hi>in that place, Levit.</hi> 19.20. Which was the reason of
+<pb n="27" facs="tcp:2500:15"/> that forced prostration also of <hi>Dagon,</hi> before the <hi>Arke in Samuel</hi>
+               <note n="i" place="margin">Dagon <hi>found in</hi> Azotus <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ioseph.</hi> Antiq. l. 6. c. 1. 1 Sam. 5.4.</note>; and that constant performance of <hi>Israels obeysance in the Wildernesse</hi>
+               <note n="k" place="margin">Exod. 4.31. c. 11.8. c. 12.28. c. 20.5. c. 23, 24. c. 24.1. c. 33.10. c. 34.8, 14. Numb. 16.4.22.45. c. 20.6. 2 Reg. 18.22. 1 Paralip. 16. 29.</note> towards the <hi>Mount,</hi> and the <hi>Tabernacle,</hi> the <hi>fire,</hi> and the <hi>cloud,</hi> the <hi>Oracle</hi> and the <hi>Altar.</hi>
+            </p>
+            <p>Nor was this guise of their devotion recorded only as a <hi>Practice</hi> under the <hi>Law;</hi> but as a <hi>predicti<g ref="char:EOLunhyphen"/>on</hi> concerning the <hi>Gospell:</hi> so the <hi>Prophets,</hi> and more especially that <hi>Evangelist</hi>
+               <note n="l" place="margin">Esa. 17.7, 8. c. 66.23.</note> amongst the Prophets: <hi>The glory of Lebanon shall come unto thee, the firre-tree, the Pine-tree, and the Boxe together, to beautifie the place of my Sanctuary, and I will make the place of my feet glorious. The sonnes also of them that afflicted thee, shall come bending unto thee; and all they that de<g ref="char:EOLhyphen"/>spised thee, shall bow themselves downe at the soles of thy feet, and they shall call thee the City of the Lord, the Zion of the holy one of Israel.</hi> A place of <hi>glory</hi> it shall be, because it is my <hi>Sanctuary;</hi> and a place of <hi>humility,</hi> because I am <hi>in my Sanctuary;</hi> a place of <hi>beauty,</hi> and yet a place of bowing and bending too, <hi>Esay</hi> 60.13, 14.</p>
+            <p>The converted <hi>Gentile falling downe in the Church will worship,</hi> saith S. <hi>Paul</hi>
+               <note n="m" place="margin">1 Cor. 14.25.</note>: and the con<g ref="char:EOLhyphen"/>verted <hi>Iewes falling downe</hi> did worship, say the <hi>E<g ref="char:EOLhyphen"/>vangelists</hi>
+               <note n="n" place="margin">Luc. 15.19. c. 5.12 Ioh. 9 38. Acts 10.25.</note>: and the departed soules, <hi>falling downe,</hi> shall worship, saith the <hi>Apocalypse</hi>
+               <note n="o" place="margin">Apoc. 3.9. c. 4.10. c. 5.14. c. 7.11. c. 11.1.16. c. 15.4.</note>. The first be<g ref="char:EOLhyphen"/>fore an <hi>invisible,</hi> the rest before a <hi>visible</hi> presence of <hi>God.</hi> For the foundation of this homage is not grounded upon the <hi>visibility</hi> of it, but the <hi>truth:</hi> whether hee bee <hi>seene</hi> or <hi>not seene,</hi> where he <hi>thus</hi> is, he is thus to be served: as he that <hi>sees not,</hi> is not lesse neglectfull in the omission of his observance, if he <hi>know</hi> the King is there, than he that sees his
+<pb n="28" facs="tcp:2500:16"/> presence, and observes it not: a <hi>Bartimaeus</hi> that cannot discerne, than a <hi>Mordecai</hi> that out-faces him.</p>
+            <p>And in this beliefe, as the Primitive Christians used prostration to <hi>God</hi> at their <hi>Eucharisticall</hi> devo<g ref="char:EOLhyphen"/>tions; so did they, at their <hi>ordinary</hi> too. For <hi>that sawcinesse and familiarity of faith</hi> was not in fashi<g ref="char:EOLhyphen"/>on <hi>then,</hi> which brings men to Church <hi>without joynts,</hi> and sends them from Church <hi>without hearts;</hi> as if they onely came to <hi>keep company,</hi> and to <hi>sit with God.</hi> We find <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a kind of wor<g ref="char:EOLhyphen"/>ship</hi> at the Communion, in <hi>Cyrill</hi>
+               <note n="p" place="margin">
+                  <hi>Cyrill</hi> Catech. 5.</note>
+               <hi>of Ierusalem:</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a downe right worship</hi> in <hi>Eusebius</hi>
+               <note n="q" place="margin">Exaltata mente adora corpus Dei tui. cit. per <hi>Iuel.</hi> conc. ad <hi>Paul.</hi> cruc. vit. per <hi>Humphred.</hi>
+               </note>
+               <hi>Emissenus, Theodoret</hi>
+               <note n="r" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. di<g ref="char:EOLhyphen"/>al. 2.</note>, <hi>Augustine</hi>
+               <note n="s" place="margin">Nemo carnem illam manducat, nisi prius adorave<g ref="char:EOLhyphen"/>rit. <hi>Aug.</hi> in Psal. 98</note>, and <hi>Chryso<g ref="char:EOLhyphen"/>stome</hi>
+               <note n="t" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chrysost.</hi> in 1 Cor. hom. 24. Ethic.</note>. We finde the neglect of the respect con<g ref="char:EOLhyphen"/>demned in the <hi>Begardi</hi> and <hi>Beguinae,</hi> at a generall councell in <hi>Vienna</hi>
+               <note n="u" place="margin">Apud <hi>Carranz.</hi> Sum. Concil. 16. p. 435. <hi>Odon. Paris.</hi> Statut. Synod. ibid. p. 639.</note>: because 'tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>it deserves this respect</hi> in the Nomocanon<note n="x" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Phot. Nomoc.</hi> tit. 2. c. 2. schol.</note> of <hi>Pho<g ref="char:EOLhyphen"/>tius.</hi> For our addresse must be with dread and hor<g ref="char:EOLhyphen"/>ror, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith that Rhetoricall <hi>Bishop</hi>
+               <note n="a" place="margin">
+                  <hi>Chrys.</hi> 1 Cor. 10. hom. 20. Ethic.</note>. Because he shall depart hence, without <hi>joy,</hi> that comes hither without <hi>feare.</hi> More yet, we have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>an honour due to the Altar,</hi> in <hi>Ignatius</hi>
+               <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ignat.</hi> Ep. Ta<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</note>, and <hi>adgeniculari aris, a kneeling to Al<g ref="char:EOLhyphen"/>tars,</hi> in <hi>Tertullian</hi>
+               <note n="c" place="margin">
+                  <hi>A part of pennance</hi> Presbyteris advolvi, aris adgeniculari, omnibus fratribus legationes deprecationis suae injungere. <hi>Tertull.</hi> de poenit.</note>; and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Patriarcha commotae plebi. Act. 5.</note>, <hi>ado<g ref="char:EOLhyphen"/>ration of the Altar,</hi> in that generall Councell of <hi>Constantinople</hi> under <hi>Menna:</hi> and <hi>reverentiam alta<g ref="char:EOLhyphen"/>ribus
+<pb n="29" facs="tcp:2500:16"/> exhibendam, a reverence to Altars,</hi> in the Syno<g ref="char:EOLhyphen"/>dals of <hi>Odo</hi>
+               <note n="e" place="margin">
+                  <hi>Odon. Paris.</hi> Sta<g ref="char:EOLhyphen"/>tut. Synod. apud <hi>Carranz.</hi> 16. p. 638, 639.</note>. We have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a sa<g ref="char:EOLhyphen"/>lutation of the Table in Dionysius</hi>
+               <note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Dio<g ref="char:EOLhyphen"/>nys. Areop.</hi> hierar. c. 2.</note>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>Veneration of the Table in Damascen</hi>
+               <note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Damasc.</hi> de imag. Orat. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Orat. 2.</note>. We have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Scarlet of the venerable Altar,</hi> in one Councell<note n="h" place="margin">
+                  <hi>Objected to</hi> Pe<g ref="char:EOLhyphen"/>ter, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Con. Con<g ref="char:EOLhyphen"/>stantinop. Gen. sub Menna. act. 4.</note>; <hi>and divina al<g ref="char:EOLhyphen"/>taria,</hi> the divine Altars in another<note n="i" place="margin">Concil. Carthag. apud <hi>Lomb.</hi> sent. 4. d. 20. a 6. Divi<g ref="char:EOLhyphen"/>nis reconciliari al<g ref="char:EOLhyphen"/>taribus.</note>. We meete with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a bowing of the head,</hi> in that donati<g ref="char:EOLhyphen"/>on fathered upon <hi>Constantine</hi>
+               <note n="k" place="margin">Constantine <hi>bestowed those priviledges on Rome</hi>—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Constant.</hi> Donat. apud Schol. in Phot. Nomoc. tit. 8. c 1.</note>: and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an exaltation of the soule, through the humi<g ref="char:EOLhyphen"/>liation of the body, out of an awfull reverence to<g ref="char:EOLhyphen"/>ward that place, in the life of <hi>Mary</hi>
+               <note n="l" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. vit. <hi>Mar. Egyp.</hi> apud <hi>Da<g ref="char:EOLhyphen"/>masc.</hi> de imag. Orat. 3.</note>
+               <hi>the Aegyptian.</hi> Wee meete with <hi>Theodosius</hi> cleaving to the dust, in <hi>Theodoret</hi>
+               <note n="m" place="margin">l. 5. 18. Ed. Steph.</note>; and the <hi>Grecians treble prostration,</hi> from their <hi>Liturgies</hi>
+               <note n="n" place="margin">
+                  <hi>Sands</hi> relat. p. 173, 174. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>In severall places of</hi> Chrysost. Liturg. Vid. caeteras Graecorum Liturgias.</note>, and such as have been among them; and <hi>Gorgonias</hi> falling before it, in her sick<g ref="char:EOLhyphen"/>nesse, as to a common Physitian, which resided there, in <hi>Nazianzene</hi>
+               <note n="o" place="margin">
+                  <hi>Naz.</hi> Orat. in Gorgon.</note>: which was the onely rea<g ref="char:EOLhyphen"/>son of that fearefull judgement, upon a disrespect of this place, in the story<note n="p" place="margin">
+                  <hi>Theodor. l</hi> 3. c. 11, 12.</note> of the <hi>Church</hi> before: and may be one reason of that generall custome of praying <hi>Eastward</hi>
+               <note n="q" place="margin">
+                  <hi>Nomoc. Phot.</hi> tit. 3. c. 1. tit. c. 5. <hi>Damasc.</hi> Orth fid. l. 4. c. 13. Orat. 1. de imag. Orat. 2. de imag. histor. p. 896. vid. Ral. l 1. par. 1. c. 3. §. 3.</note>, which continues in so many places, unto this day.</p>
+            <p>And whosoever thinkes not this prescription long enough, had need write annalls ancienter than the <hi>world.</hi> Since hath Ecclesiasticall adorati<g ref="char:EOLhyphen"/>on
+<pb n="30" facs="tcp:2500:17"/> ever beene in use: and I wish, those seditious <hi>Corahs</hi> of our <hi>Israel,</hi> would raise no contradiction against that authority, which God hath justly be<g ref="char:EOLhyphen"/>stowed upon <hi>his Kings,</hi> and <hi>their Churches</hi> (for to curse <hi>God,</hi> and the <hi>King,</hi> in <hi>Esaiah</hi>
+               <note n="r" place="margin">Esa 8.21.</note>, goes together: because he that doubts not to do one, will undoubt<g ref="char:EOLhyphen"/>edly do the other) but of <hi>this date:</hi> or that they could shew so quiet and interrupted a possession, such a <hi>time out of mind,</hi> for the best lands, and Charters they have.</p>
+            <p>Feare not therfore to tread in the same steps with <hi>the Church of England,</hi> because this treads in the same steps <hi>the Church of God ever did before.</hi> Those sainted times loved him too well, to love any thing like him; and although they gave a <hi>Religious Reve<g ref="char:EOLhyphen"/>rence unto those places,</hi> they terminated that religious reverence <hi>in God, not in the places:</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith<note n="s" place="margin">De Orthod. fid. l. 4 c. 12.</note>
+               <hi>Damascene.</hi> The house of <hi>God</hi> was honoured <hi>for God,</hi> th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Throne</hi> for the <hi>King,</hi> the <hi>Altar</hi> for the <hi>Sacrifice:</hi> as <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> adoring <hi>Gods</hi> name in <hi>Iaddus</hi>
+               <note n="t" place="margin">Iaddus <hi>being in al his Priestly robes,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ioseph.</hi> Antiq. l. 11. c. 8.</note>
+               <hi>mitre,</hi> adored <hi>God alone,</hi> neither <hi>Iaddus,</hi> nor his <hi>mitre:</hi> and he that re<g ref="char:EOLhyphen"/>spects a house for the <hi>owners sake,</hi> respects not his <hi>house,</hi> but <hi>him,</hi> so much <hi>they said;</hi> but to justifie the practice of <hi>our Church,</hi> I need not say <hi>so much.</hi> For, as although the <hi>humane</hi> nature of <hi>Christ</hi> receive all from the <hi>divine,</hi> we adore the whole <hi>suppositum in grosse,</hi> which consists of the <hi>humane as well as the di<g ref="char:EOLhyphen"/>vine:</hi> so, because of <hi>Gods personall presence in the place,</hi> we adore him, <hi>without an abstraction of his Per<g ref="char:EOLhyphen"/>son from the place.</hi> 'Tis not the <hi>Altar</hi> we worship, but the <hi>Lord towards the Altar:</hi> no prostration <hi>to a false God,</hi> but a prostration <hi>before the true God: pulveri<g ref="char:EOLhyphen"/>satio
+<pb n="31" facs="tcp:2500:17"/> nihileitatis nostrae,</hi> as <hi>à Kempis</hi> upon another occa<g ref="char:EOLhyphen"/>sion speakes, an acknowledgement of <hi>our vilenesse,</hi> and <hi>Gods infinitenesse;</hi> of our originall <hi>out of dust,</hi> and our re<g ref="char:EOLhyphen"/>solution <hi>into dust;</hi> a confession of <hi>His being there,</hi> and our humiliation <hi>to Him that is there:</hi> an adoration of him <hi>that is not seene,</hi> looking on that <hi>which is seene:</hi> no Altar <hi>against God,</hi> but as that in <hi>Iosuah</hi>
+               <note n="u" place="margin">Ios. 22.25.</note> was an Altar <hi>for God;</hi> nor an Altar of any <hi>strange worship,</hi> but <hi>of witnesse. O worship the Lord in the beauty of holinesse,</hi> saith <hi>David</hi>
+               <note n="z" place="margin">Psal. 96.9.</note>; 'tis a place of <hi>holinesse,</hi> and therefore no <hi>Layfee</hi> for <hi>Mammon:</hi> and a place of <hi>beauty,</hi> and therefore no resort for our <hi>pollution.</hi> 'Tis <hi>Bethel</hi> the house of <hi>God,</hi> frequent it we must for <hi>his</hi> sake: and <hi>Bethlem,</hi> the house of <hi>bread,</hi> frequent we must for our <hi>owne.</hi> Here dwels our <hi>Physitian,</hi> ô let us run to the <hi>God</hi> of our <hi>health,</hi> as <hi>David</hi> cals him, and here en<g ref="char:EOLhyphen"/>campes our <hi>general,</hi> ô let us flie to the <hi>God</hi> of our strength, as <hi>Moses;</hi> this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Damascene</hi>
+               <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Da<g ref="char:EOLhyphen"/>masc.</hi> Orat. 1. &amp; 2. de imag.</note>; a universall anti<g ref="char:EOLhyphen"/>dote that never failed, no languishing soule miscarried: and this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in <hi>Iosephus</hi>
+               <note n="b" place="margin">The Cuthites or Samaritans accused the Iewes, that they built a Temple <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ios. <hi>An<g ref="char:EOLhyphen"/>tiq. l. 11. c. 4.</hi>
+               </note>, an impregnable fort, that never was taken yet (the same word in <hi>Hebrew</hi>
+               <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Joseph.</hi> Antiq. l. 7 c. 3.</note> signify<g ref="char:EOLhyphen"/>ing the <hi>Temple,</hi> and <hi>safety</hi> too) no distressed soule perished there. <hi>Antiochus Eupator</hi> indeed besieged <hi>Iudas Maccabe<g ref="char:EOLhyphen"/>us</hi>
+               <note n="d" place="margin">Id. l. 12. 14.</note> thus, with what successe the story tels, because he might as well have besieged him in <hi>heaven,</hi> as <hi>there:</hi> for who can be blockt up <hi>here,</hi> that converseth with the <hi>Lord</hi> which is <hi>every where?</hi> or want succours, that maintaines correspondence, and intercourse with <hi>God? Ho, every one that thirsteth,</hi> saith the <hi>Prophet;</hi> nay, every one that is hungry, and every one that is sickly, and every one that is in distresse, and every one that is in debt, and every one that is discontented too. Behold the <hi>Altar,</hi> and the <hi>Sa<g ref="char:EOLhyphen"/>crifice;</hi> a Lamb in a thicket, <hi>Christ</hi> intangled in a <hi>Crown of Thornes: the Lambe of God that hath taken away the sins of the world,</hi> and therefore <hi>ours:</hi> that hath wiped out all our
+<pb n="32" facs="tcp:2500:18"/> scores, hath stricken all our Tallies; that brake the bars of hell by his descent into hell, and opened the gates of hea<g ref="char:EOLhyphen"/>ven by his <hi>Ascension. O let us enter therfore into these Courts with thanksgivings, and into these gates with praise:</hi> enter with <hi>preparation,</hi> as <hi>unto God;</hi> for he that comes hither <hi>as he is,</hi> goes away <hi>as he was;</hi> and enter with <hi>reverence,</hi> as <hi>in the presence of God;</hi> for he that prayes, as <hi>if God were not here,</hi> when he hath prayed, shall finde him <hi>no where.</hi> Enter with <hi>our soules,</hi> because <hi>God</hi> loves no sacrifie but the <hi>heart:</hi> and enter <hi>without our sins,</hi> because <hi>God</hi> heares not <hi>Vs,</hi> if we <hi>hearken not to him.</hi> Enter <hi>all eare,</hi> while <hi>God</hi> speakes <hi>to us; all heart and tongue,</hi> while <hi>we speake to God;</hi> because, if the <hi>heart</hi> go one way, and <hi>the tongue</hi> another: if we turne this house into an <hi>exchange or a stewes,</hi> by thinking in this house, on our <hi>gaines or our lusts;</hi> we defile not the Temple, as <hi>Antiochus</hi>
+               <note n="e" place="margin">
+                  <hi>Ioseph.</hi> Antiq. l. 13. c. 16.</note>, by engraving the simili<g ref="char:EOLhyphen"/>tudes of uncleane beasts <hi>on these doores,</hi> but by bringing them <hi>within.</hi> Enter by the humiliation of our <hi>soules,</hi> and enter with the prostration of our <hi>bodies;</hi> because as <hi>this,</hi> without <hi>that,</hi> is a <hi>dead</hi> oblation; so <hi>that,</hi> without <hi>this,</hi> is a <hi>maimed one. Adaman</hi>
+               <note n="f" place="margin">Bed. hist. l. 5.</note> in <hi>Bede</hi> tels, in his discourse of holy places, from the mouth of a <hi>Bishop,</hi> who had beene there: that in a Church erected in that place, from whence our <hi>Saviour</hi> ascended, there rushed annually in those times, a violent gale of winde from heaven upon <hi>Ascension Day,</hi> which forced all those it found <hi>standing, to fall prostrate on the earth.</hi> I doe not justifie the relati<g ref="char:EOLhyphen"/>on, and yet 'tis <hi>ancient;</hi> only I wish, that when we come <hi>hither,</hi> we need no winde from heaven <hi>to humble us here:</hi> but that falling downe by the <hi>dejection of our bodies,</hi> we may rise up by the <hi>exaltation of our soules,</hi> and living in his <hi>feare,</hi> may dye in his <hi>favour:</hi> which the <hi>Father</hi> of mercies grant us all, for the merits of his <hi>Sonne,</hi> to whom, &amp;c.</p>
+            <pb facs="tcp:2500:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
